@@ -1,0 +1,1169 @@
+relation	relation_label_(from_Ubergraph)	biolink_predicate	obo_dataset_mapping_found_in
+OBO:ADO_0000002		biolink:related_to	ado
+OBO:ADO_0000003		biolink:related_to	ado
+OBO:ADO_0000004		biolink:related_to	ado
+OBO:ADO_0000005		biolink:related_to	ado
+OBO:ADO_0000006		biolink:related_to	ado
+OBO:ADO_0000007		biolink:related_to	ado
+OBO:ADO_0000008		biolink:related_to	ado
+OBO:ADO_0000009		biolink:related_to	ado
+OBO:ADO_0000013		biolink:related_to	ado
+rdfs:subClassOf		biolink:subclass_of	ado	aeo	afpo	agro	aism	amphx	apo	apollo_sv	aro	bco	bfo	bspo	bto	caro	cdao	cdno	ceph	chebi	cheminf	chiro	chmo	cido	cio	cl	clao	clo	clyh	cmo	cob	colao	cro	cteno	cto	cvdo	ddanat	ddpheno	dideo	disdriv	doid	dpo	dron	duo	ecao	eco	ecocore	ecto	ehdaa2	emapa	envo	epio	ero	eupath	exo	fao	fbbi	fbbt	fbcv	fbdv	fix	flopo	fma	fobi	fovt	fypo	gallont	gaz	gecko	genepio	geno	geo	gno	go	gsso	hancestro	hao	hom	hp	hsapdv	hso	htn	iao	iceo	ico	ido	idomal	ino	kisao	labo	lepao	ma	mamo	maxo	mco	mcro	mf	mfmo	mfoem	mfomd	mi	miapa	micro	miro	mmo	mmusdv	mod	mondo	mop	mp	mpath	mpio	mro	ms	nbo	ncbitaxon	ncit	ncro	ngbo	nomen	oae	oarcs	oba	obcs	obi	obib	occo	ogg	ogms	ogsf	ohd	ohmi	ohpi	olatdv	omit	omo	omp	omrse	one	ons	ontoavida	ontoneo	oostt	opl	opmi	ornaseq	ovae	pato	pcl	pco	pdro	pdumdv	peco	phipo	plana	planp	po	poro	ppo	pr	proco	psdo	pso	pw	rbo	rex	ro	rs	rxno	sbo	scdo	sepio	sibo	slso	so	spd	stato	swo	symp	t4fs	tads	taxrank	tgma	to	trans	tto	txpo	uberon	uo	upa	upheno	vario	vbo	vo	vt	vto	wbbt	wbls	wbphenotype	xao	xco	xlmod	xpo	zeco	zfa	zfs	zp
+subPropertyOf		biolink:subPropertyOf	ado	agro	aism	apollo_sv	bco	bspo	caro	cdao	cdno	ceph	cheminf	chiro	chmo	cido	cio	cl	clao	clo	cob	colao	cteno	cvdo	dideo	doid	dpo	dron	duo	ecao	eco	ecocore	ecto	envo	eupath	fbbi	fbbt	fbcv	fbdv	flopo	fma	fovt	fypo	gallont	gaz	genepio	geno	geo	go	hancestro	hp	hsapdv	hso	htn	iao	iceo	ido	ino	kisao	labo	lepao	maxo	mco	mcro	mf	mfmo	mfoem	mfomd	miapa	micro	mmusdv	mondo	mop	mp	mpio	mro	nbo	ncit	ncro	ngbo	nomen	oae	oba	obcs	obi	obib	occo	ogg	ogsf	ohd	ohmi	ohpi	olatdv	omit	omp	omrse	one	ons	ontoavida	ontoneo	oostt	opl	opmi	ornaseq	ovae	pato	pcl	pco	pdro	pdumdv	peco	phipo	plana	planp	po	ppo	pr	proco	psdo	pso	ro	rxno	slso	so	stato	swo	t4fs	to	txpo	uberon	upa	upheno	vbo	vo	wbbt	wbls	wbphenotype	xpo	zfa	zfs	zp
+OBO:aeo#has_part		biolink:related_to	aeo
+OBO:aeo#part_of		biolink:related_to	aeo
+OBO:AfPO_0000447		biolink:related_to	afpo	hancestro
+OBO:HANCESTRO_0308		biolink:related_to	afpo	hancestro
+inverseOf		biolink:inverseOf	afpo	agro	aism	apollo_sv	bco	bspo	caro	cdao	cdno	ceph	chebi	cheminf	cido	cl	clo	cob	colao	cro	cteno	cto	cvdo	dideo	dpo	dron	duo	ecao	eco	ecocore	ecto	envo	eupath	fbbi	fbbt	fbcv	fbdv	flopo	fobi	fovt	fypo	gallont	gaz	genepio	geno	geo	go	hancestro	hp	hso	htn	iao	iceo	ido	idomal	kisao	labo	lepao	maxo	mco	mcro	mf	mfmo	mfoem	mfomd	miapa	micro	mondo	mp	nbo	ncro	ngbo	oae	oba	obcs	obi	obib	occo	ogg	ogsf	ohd	ohmi	ohpi	omit	omrse	one	ons	ontoavida	ontoneo	oostt	opl	opmi	ovae	pato	pcl	pco	pdro	peco	phipo	plana	planp	po	ppo	proco	psdo	pso	ro	slso	stato	swo	t4fs	to	txpo	uberon	upa	upheno	vbo	vo	wbbt	wbls	wbphenotype	xpo	zeco	zfa	zp
+type		biolink:type	afpo	agro	aism	apollo_sv	bco	bspo	cdao	cheminf	cido	clo	cro	cteno	cto	dideo	dpo	dron	duo	ecao	ecto	envo	eupath	fovt	fypo	gallont	gaz	genepio	geno	geo	gno	gsso	hancestro	hao	hso	iao	ico	ido	mcro	mf	mfmo	mfoem	mfomd	miapa	mondo	mp	mpio	ncro	oarcs	oba	obcs	obi	obib	occo	ogms	ogsf	ohd	ohmi	ohpi	omit	omo	omrse	one	ons	ontoneo	oostt	opl	opmi	ornaseq	ovae	pcl	pco	phipo	plana	po	ppo	proco	psdo	pso	rbo	ro	sepio	slso	stato	swo	t4fs	to	uberon	upheno	vbo	vo	wbbt	wbls	wbphenotype	xpo
+IAO:0000136	is about	biolink:related_to	agro	aism	apollo_sv	bco	cheminf	chmo	cido	clo	cob	cro	dideo	duo	eco	ecocore	eupath	fovt	fypo	gecko	genepio	hso	htn	iao	labo	mcro	mpio	ncro	ngbo	oae	obcs	obi	obib	ogsf	ohd	ohmi	ohpi	omit	omrse	one	ons	ontoneo	oostt	opmi	pdro	plana	proco	psdo	slso	stato	swo	t4fs	upheno	vbo	vo	wbphenotype	xpo
+IAO:0000219	denotes	biolink:related_to	agro	aism	apollo_sv	cheminf	dideo	duo	eupath	genepio	geno	htn	iao	labo	mcro	obcs	obi	omrse	one	ons	oostt	pdro	psdo	stato
+IAO:0000221	is quality measurement of	biolink:related_to	agro	apollo_sv	cheminf	dideo	duo	eupath	htn	iao	mcro	obcs	obi	obib	omrse	one	ontoneo	oostt	psdo	slso
+OBI:0000124	is_supported_by_data	biolink:related_to	agro	eco	eupath	hso	ngbo	obcs	obi	obib	one	opmi	proco	psdo	slso	stato
+OBI:0000312	is_specified_output_of	biolink:related_to	agro	aism	apollo_sv	bco	cheminf	chmo	cido	clo	cob	dideo	duo	eco	ero	eupath	fovt	hso	iao	labo	mcro	micro	ngbo	obcs	obi	obib	ogsf	ohd	ohmi	ohpi	omrse	one	oostt	opmi	ornaseq	ovae	proco	psdo	slso	stato	swo	vo
+OBI:0000417	achieves_planned_objective	biolink:related_to	agro	apollo_sv	bco	chmo	cido	clo	eco	ero	eupath	fovt	hso	labo	ngbo	obcs	obi	obib	ogsf	ohd	ohmi	ohpi	one	opmi	ovae	pdro	proco	psdo	rxno	slso	stato	swo	vo
+OBI:0001938	has value specification	biolink:related_to	agro	bco	cido	dideo	eco	eupath	htn	labo	obcs	obi	ohmi	one	opmi	pdro	proco	psdo	slso	stato	vo
+OBO:chebi#has_functional_parent		biolink:related_to	agro	aism	caro	chebi	cido	clo	dron	ecao	ecocore	ecto	fbcv	flopo	fovt	fypo	hp	maxo	mco	micro	mondo	mp	nbo	oba	pato	pcl	peco	phipo	poro	proco	to	uberon	upheno	wbphenotype	xpo	zp
+OBO:chebi#has_parent_hydride		biolink:related_to	agro	aism	caro	chebi	cido	clo	dron	ecao	ecocore	ecto	fbcv	flopo	fovt	fypo	hp	maxo	mco	micro	mondo	mp	nbo	oba	pato	pcl	peco	phipo	proco	slso	to	uberon	upheno	wbphenotype	xpo	zp
+OBO:chebi#is_conjugate_acid_of		biolink:related_to	agro	aism	caro	chebi	cido	clo	dpo	dron	ecao	ecocore	ecto	fbcv	flopo	fovt	fypo	hp	maxo	mco	micro	mondo	mp	nbo	oba	pato	pcl	peco	phipo	poro	proco	slso	to	uberon	upheno	wbphenotype	xpo	zp
+OBO:chebi#is_conjugate_base_of		biolink:related_to	agro	aism	caro	chebi	cido	clo	dpo	dron	ecao	ecocore	ecto	fbcv	flopo	fovt	fypo	hp	maxo	mco	micro	mondo	mp	nbo	oba	pato	pcl	peco	phipo	poro	proco	slso	to	uberon	upheno	wbphenotype	xpo	zp
+OBO:chebi#is_substituent_group_from		biolink:related_to	agro	aism	caro	chebi	cido	clo	dron	ecao	ecocore	ecto	fbcv	flopo	fovt	fypo	hp	maxo	mco	mondo	mp	nbo	oba	pato	pcl	peco	phipo	proco	slso	to	uberon	upheno	wbphenotype	xpo	zp
+OBO:chebi#is_tautomer_of		biolink:related_to	agro	aism	caro	chebi	cido	clo	dron	ecao	ecocore	ecto	fbcv	flopo	fovt	fypo	hp	maxo	mco	micro	mondo	mp	nbo	oba	pato	pcl	peco	phipo	proco	slso	to	uberon	upheno	wbphenotype	xpo	zp
+OBO:envo#has_increased_levels_of		biolink:related_to	agro	ecto	gaz	peco
+OBO:has_prefix		biolink:related_to	agro	slso	uo
+OBO:uo#is_unit_of		biolink:has_unit	agro
+RO:0000052	characteristic of	biolink:related_to	agro	apollo_sv	bco	cido	cob	dideo	dpo	dron	eco	ecocore	ecto	envo	ero	eupath	fbbt	flopo	fovt	fypo	gaz	gecko	genepio	geno	htn	ido	labo	mondo	nbo	oba	obcs	obi	obib	ohd	ohmi	ohpi	omp	omrse	one	ons	ontoneo	oostt	opmi	pato	pco	pdro	peco	proco	psdo	slso	stato	to	txpo	upheno	vo	xpo
+RO:0000053	has characteristic	biolink:related_to	agro	aism	apollo_sv	bto	caro	cido	cl	clao	clo	cob	colao	cteno	dideo	dpo	ecao	eco	ecocore	ecto	envo	ero	eupath	fbbt	flopo	fovt	fypo	gaz	hp	lepao	maxo	mondo	mp	oba	obcs	obi	obib	omrse	one	ons	oostt	opmi	pato	pcl	pdro	peco	phipo	poro	slso	swo	uberon	upheno	wbphenotype	xpo
+RO:0000059	concretizes	biolink:related_to	agro	apollo_sv	cob	eco	htn	iao	ohpi	omrse	ons	opmi	slso	stato
+RO:0000080	quality of	biolink:related_to	agro	micro	psdo
+RO:0000081	role of	biolink:related_to	agro	eco	eupath	obcs	obi	obib	ohmi	one	opmi	psdo	slso	stato
+RO:0002150	continuous with	biolink:related_to	agro	aism	cl	clao	clo	colao	cteno	ecao	ecocore	ecto	envo	fbbt	flopo	fovt	gaz	hp	lepao	maxo	mondo	mp	nbo	oae	oba	ohpi	ovae	pato	pcl	poro	uberon	upheno	xpo	zfa	zp
+RO:0002151	partially overlaps	biolink:related_to	agro	envo	gaz	hancestro	upheno
+RO:0002495	immediate transformation of	biolink:related_to	agro	aism	cl	clo	ecao	ecocore	ecto	envo	flopo	fovt	gaz	hp	maxo	mondo	mp	nbo	oae	oba	ohpi	opmi	ovae	pato	pcl	uberon	upheno	xpo
+RO:0002609	obsolete related via dependence to	biolink:related_to	agro
+RO:0015012	reciprocal of	biolink:related_to	agro	aism	dpo	ecto	flopo	fypo	gallont	hp	maxo	mondo	mp	nbo	oba	pato	phipo	to	wbphenotype	xpo	zp
+TO:has_dividend_quality		biolink:related_to	agro
+TO:has_divisor_quality		biolink:related_to	agro
+BSPO:0001102	parallel to	biolink:related_to	aism	bspo	fovt	uberon	zp
+CL:4030045	lacks_part	biolink:related_to	aism	cl	ecao	fovt	hp	maxo	mondo	mp	oba	pato	pcl	uberon	xpo
+CL:4030046	lacks_plasma_membrane_part	biolink:related_to	aism	cl	ecao	fovt	hp	maxo	mondo	mp	oba	pato	pcl	uberon	xpo
+OBO:AISM_0000011		biolink:related_to	aism	colao	lepao
+OBO:AISM_0000012		biolink:related_to	aism	colao	lepao
+OBO:AISM_0000078		biolink:related_to	aism	colao	lepao
+OBO:AISM_0000079		biolink:related_to	aism	colao	lepao
+OBO:bspo#parallel_to		biolink:related_to	aism	colao	cteno	lepao	plana	planp	upheno
+OBO:chebi#is_enantiomer_of		biolink:related_to	aism	chebi	cido	dron	ecao	ecto	fbcv	flopo	fovt	fypo	hp	maxo	mco	micro	mondo	mp	nbo	oba	pato	pcl	peco	phipo	to	uberon	upheno	wbphenotype	xpo	zp
+OBO:pr#has_gene_template		biolink:related_to	aism	caro	cido	clo	dron	ecao	ecocore	ecto	fovt	fypo	maxo	mp	oba	pato	pcl	phipo	pr	uberon	upheno	xpo
+OBO:uberon/core#protects		biolink:related_to	aism	cl	clo	ecao	ecocore	flopo	fovt	hp	hso	maxo	micro	mondo	mp	nbo	oae	oba	ohpi	ovae	pato	pcl	uberon	upheno	xpo
+RO:0002002	has 2D boundary	biolink:related_to	aism	cl	clo	ecao	ecocore	flopo	fovt	hp	maxo	mondo	mp	nbo	oae	oba	ohpi	opmi	ovae	pato	pcl	uberon	upheno	xpo
+RO:0002005	innervated_by	biolink:related_to	aism	cl	ecao	ecocore	fbbt	flopo	fovt	hp	maxo	mfmo	mondo	mp	nbo	oae	oba	ohpi	pato	pcl	uberon	upheno	xpo
+RO:0002008	coincident with	biolink:related_to	aism	colao	lepao	oba
+RO:0002134	innervates	biolink:related_to	aism	cl	clao	cteno	ecao	ecocore	fbbt	flopo	fovt	hp	lepao	maxo	mondo	mp	nbo	oae	oba	ohpi	pato	pcl	uberon	upheno	xpo
+RO:0002170	connected to	biolink:related_to	aism	cl	clao	clo	ecao	ecocore	envo	fbbt	flopo	fovt	hp	maxo	mondo	mp	nbo	oae	oba	ohpi	ovae	pato	pcl	uberon	upheno	xpo
+RO:0002176	connects	biolink:related_to	aism	cl	clo	cteno	ecao	ecocore	ecto	envo	flopo	fovt	gaz	hp	lepao	maxo	mondo	mp	nbo	oae	oba	ohpi	opmi	ovae	pato	pcl	uberon	upheno	xpo
+RO:0002177	attached to part of	biolink:related_to	aism	cl	ecao	ecocore	fbbt	flopo	fovt	hp	mondo	mp	nbo	oba	ohpi	pato	pcl	uberon	upheno	xpo
+RO:0002178	supplies	biolink:related_to	aism	cl	clo	ecao	ecocore	flopo	fovt	hp	maxo	mondo	mp	nbo	oae	oba	ohpi	pato	pcl	txpo	uberon	upheno	xpo
+RO:0002179	drains	biolink:related_to	aism	cl	ecao	ecocore	flopo	fovt	hp	maxo	mondo	mp	nbo	oae	oba	ohpi	pato	pcl	uberon	upheno	xpo
+RO:0002252	connecting branch of	biolink:related_to	aism	cl	ecao	hp	mondo	mp	oba	pato	pcl	uberon	xpo
+RO:0002254	has developmental contribution from	biolink:related_to	aism	cl	clo	cteno	ecao	ecocore	flopo	fovt	hp	maxo	mondo	mp	nbo	oae	oba	ohpi	ontoneo	opmi	ovae	pato	pcl	uberon	upheno	xpo	zfa	zp
+RO:0002328	functionally related to	biolink:related_to	aism	cl	clo	ecao	ecocore	flopo	fovt	hp	maxo	mondo	mp	nbo	oba	pato	pcl	uberon	upheno	xpo
+RO:0002338	has target start location	biolink:related_to	aism	cl	clo	ecao	ecocore	flopo	fovt	mp	oba	pato	pcl	phipo	txpo	uberon	upheno	xpo
+RO:0002339	has target end location	biolink:related_to	aism	cl	clo	ecao	ecocore	flopo	fovt	mp	oba	pato	pcl	phipo	txpo	uberon	upheno	xpo
+RO:0002341	results in transport along	biolink:related_to	aism	cl	clo	ecao	ecocore	flopo	fovt	mp	oba	pato	pcl	uberon	upheno	xpo
+RO:0002342	results in transport across	biolink:related_to	aism	cl	clo	ecao	flopo	fovt	mp	oba	pato	pcl	uberon	upheno	xpo
+RO:0002344	results in transport to from or in	biolink:related_to	aism	cl	clo	ecao	ecocore	flopo	fovt	mp	oba	pato	pcl	phipo	uberon	upheno	xpo
+RO:0002371	attached to	biolink:related_to	aism	ceph	cl	clao	clo	colao	ecao	ecocore	ehdaa2	envo	fbbt	flopo	fovt	gaz	hp	lepao	maxo	mfmo	mondo	mp	nbo	oae	oba	ohpi	pato	pcl	uberon	upheno	xpo
+RO:0002373	has muscle insertion	biolink:related_to	aism	cl	ecao	ecocore	flopo	fovt	hp	mondo	mp	nbo	oba	ohpi	pato	pcl	uberon	upheno	xpo
+RO:0002385	has potential to developmentally contribute to	biolink:related_to	aism	cl	clo	ecao	ecocore	flopo	fovt	hp	maxo	mondo	mp	nbo	oae	oba	ohpi	ovae	pato	pcl	uberon	upheno	xpo
+RO:0002387	has potential to develop into	biolink:related_to	aism	cl	clo	ecao	ecocore	flopo	fovt	hp	maxo	mondo	mp	nbo	oae	oba	ohpi	opmi	ovae	pato	pcl	uberon	upheno	xpo
+RO:0002388	has potential to directly develop into	biolink:related_to	aism	cl	fovt	hp	mondo	mp	oba	uberon
+RO:0002491	existence starts and ends during	biolink:related_to	aism	cl	clo	cteno	ecao	ecocore	flopo	fovt	hp	maxo	mondo	mp	nbo	oba	pato	pcl	uberon	upheno	xpo
+RO:0002494	transformation of	biolink:related_to	aism	cl	clo	ecao	ecocore	flopo	fovt	hp	hso	maxo	mondo	mp	nbo	oae	oba	ohpi	opmi	ovae	pato	pcl	uberon	upheno	xpo
+RO:0002568	has muscle antagonist	biolink:related_to	aism	cl	ecao	flopo	fovt	hp	mondo	mp	nbo	oba	pcl	uberon	upheno
+RO:0002570	conduit for	biolink:related_to	aism	cl	ecao	fovt	hp	maxo	mondo	mp	nbo	oba	pato	pcl	uberon	xpo
+RO:0002571	lumen of	biolink:related_to	aism	ecao	fovt
+RO:0012008	results in fusion of	biolink:related_to	aism	cl	clo	ecao	ecocore	flopo	fovt	mp	oba	pato	pcl	uberon	upheno	xpo
+RO:0015007	increased in magnitude relative to	biolink:related_to	aism	cl	clo	dpo	ecocore	ecto	flopo	fovt	fypo	gallont	hp	mondo	mp	nbo	oba	pato	phipo	to	wbphenotype	xpo	zp
+RO:0015008	decreased in magnitude relative to	biolink:related_to	aism	cl	clo	dpo	ecto	flopo	fypo	hp	mondo	mp	nbo	oba	pato	phipo	to	wbphenotype	xpo	zp
+RO:0015011	has cross section	biolink:related_to	aism	caro	cl	clo	ecao	ecocore	fbbt	flopo	fovt	fypo	gallont	hp	maxo	mondo	mp	nbo	oba	pato	pcl	to	uberon	wbphenotype	xpo	zp
+BFO:0000054	realized in	biolink:related_to	apollo_sv	bco	bto	chmo	cido	cvdo	ecocore	ecto	envo	eupath	fovt	gaz	genepio	htn	ino	mf	mfoem	mfomd	micro	mondo	oba	obcs	obi	obib	ogsf	ohd	ohpi	omrse	ontoneo	opmi	ovae	pdro	proco	psdo	slso	stato	vo
+BFO:0000075		biolink:related_to	apollo_sv	geo	oostt
+BFO:0000111		biolink:related_to	apollo_sv	ogsf
+BFO:0000118		biolink:related_to	apollo_sv	chmo
+BFO:0000137		biolink:related_to	apollo_sv	chmo	geo
+BFO:0000139		biolink:related_to	apollo_sv
+BFO:0000177		biolink:related_to	apollo_sv
+GEO:000000329		biolink:related_to	apollo_sv	geo	obib
+OBO:APOLLO_SV_00000067		biolink:related_to	apollo_sv
+RO:0000091	has disposition	biolink:related_to	apollo_sv	cido	dpo	ecto	envo	gaz	geno	ido	mondo	obib	occo	ohpi	phipo	slso	vo
+RO:0002218	obsolete has active participant	biolink:related_to	apollo_sv	opmi
+OBO:RO#_confers_resistance_to		biolink:related_to	aro
+OBO:RO#_confers_resistance_to_drug		biolink:related_to	aro
+OBO:RO#_derives_from		biolink:related_to	aro
+OBO:RO#_has_part		biolink:related_to	aro
+OBO:RO#_part_of		biolink:related_to	aro
+OBO:RO#_participates_in		biolink:related_to	aro
+OBO:RO#_targeted_by		biolink:related_to	aro
+OBO:RO#_targeted_by_drug		biolink:related_to	aro
+RO:0002312	evolutionary variant of	biolink:related_to	aro
+RO:0012006	is small molecule inhibitor of	biolink:related_to	aro
+RO:regulates		biolink:related_to	aro
+BCO:0000085		biolink:related_to	bco
+BCO:0000086		biolink:related_to	bco
+BFO:0000087		biolink:related_to	bco	chmo	ogsf
+OBI:0000643	has grain	biolink:related_to	bco	cido	clo	eco	ero	eupath	obcs	obi	obib	ohmi	ohpi	one	opmi	pdro	psdo	stato	vo
+RO:0000079	function of	biolink:related_to	bco	cido	eco	eupath	obcs	obi	obib	ohmi	one	opmi	psdo	stato
+RO:0000085	has function	biolink:related_to	bco	cido	clo	dideo	eco	ecto	envo	eupath	gaz	obcs	obi	obib	ohmi	omit	one	ons	opmi	proco	psdo	slso	stato	vo
+RO:0002321	ecologically related to	biolink:related_to	bco	pco
+RO:0002566	causally influences	biolink:related_to	bto
+RO:0004030	disease arises from structure	biolink:related_to	bto	mondo	oba
+RO:0002578	directly regulates	biolink:related_to	caro	oba
+RO:0002629	directly positively regulates	biolink:related_to	caro	oba
+RO:0002630	directly negatively regulates	biolink:related_to	caro	oba
+CDAO:0000142		biolink:related_to	cdao	miapa
+CDAO:0000153		biolink:related_to	cdao	miapa
+CDAO:0000155		biolink:related_to	cdao	miapa
+CDAO:0000168		biolink:related_to	cdao	miapa
+CDAO:0000170		biolink:related_to	cdao	miapa
+CDAO:0000174		biolink:related_to	cdao	miapa
+CDAO:0000176		biolink:related_to	cdao	miapa
+CDAO:0000177		biolink:related_to	cdao
+CDAO:0000178		biolink:related_to	cdao	miapa
+CDAO:0000188		biolink:related_to	cdao	miapa
+CDAO:0000190		biolink:related_to	cdao	miapa
+CDAO:0000193		biolink:related_to	cdao	miapa
+CDAO:0000195		biolink:related_to	cdao	miapa
+CDAO:0000199		biolink:related_to	cdao	miapa
+CDAO:0000201		biolink:related_to	cdao
+CDAO:0000202		biolink:related_to	cdao	miapa
+CDAO:0000207		biolink:related_to	cdao	miapa
+CDAO:0000208		biolink:related_to	cdao	miapa
+CEPH:0001007		biolink:related_to	ceph
+OBO:ceph#continuous_with		biolink:related_to	ceph
+OBO:ceph#dorsal_to		biolink:related_to	ceph
+OBO:ceph#proximal_to		biolink:related_to	ceph
+OBO:ceph#secretes		biolink:related_to	ceph
+OBO:ceph#surrounded_by		biolink:related_to	ceph
+OBO:ceph#surrounds		biolink:related_to	ceph
+OBO:ceph#trait_of		biolink:related_to	ceph
+OBO:ceph#ventral_to		biolink:related_to	ceph
+SIO:000658		biolink:related_to	ceph	cteno
+http://semanticscience.org/resource/CHEMINF_000047		biolink:related_to	cheminf
+http://semanticscience.org/resource/CHEMINF_000143		biolink:related_to	cheminf
+http://semanticscience.org/resource/CHEMINF_000145		biolink:related_to	cheminf
+http://semanticscience.org/resource/CHEMINF_000148		biolink:related_to	cheminf
+http://semanticscience.org/resource/CHEMINF_000330		biolink:related_to	cheminf
+http://semanticscience.org/resource/CHEMINF_000331		biolink:related_to	cheminf
+http://semanticscience.org/resource/CHEMINF_000606		biolink:related_to	cheminf
+http://www.obofoundry.org/ro/ro.owl#has_proper_part		biolink:related_to	cheminf	dron
+http://www.semanticweb.org/ontologies/is_output_of		biolink:related_to	cheminf
+OBO:chebi#has_part		biolink:related_to	chiro
+OBO:chiro#activator_of		biolink:related_to	chiro
+OBO:chiro#agonist_of		biolink:related_to	chiro
+OBO:chiro#antagonist_of		biolink:related_to	chiro
+OBO:chiro#destabilizer_of		biolink:related_to	chiro
+OBO:chiro#inducer_of		biolink:related_to	chiro
+OBO:chiro#inhibitor_of		biolink:related_to	chiro
+OBO:chiro#modulator_of		biolink:related_to	chiro
+OBO:chiro#sensitizer_of		biolink:related_to	chiro
+OBO:chiro#stabilizier_of		biolink:related_to	chiro
+BFO:0000052		biolink:related_to	chmo	mf	mfoem	ogg	ohd	ohpi
+BFO:0000056		biolink:participates_in	chmo	ppo
+BFO:0000057		biolink:related_to	chmo	mop	ogsf	ppo	proco	rxno	slso
+BFO:0000068		biolink:related_to	chmo	cteno	ehdaa2
+BFO:0000085		biolink:related_to	chmo
+BFO:0000110		biolink:related_to	chmo	ogsf
+BFO:0000174		biolink:related_to	chmo
+BFO:0000175		biolink:related_to	chmo
+BFO:0000178		biolink:related_to	chmo
+CHMO:0002748		biolink:related_to	chmo
+CHMO:0002922		biolink:related_to	chmo
+CHMO:0010016		biolink:related_to	chmo
+CHMO:0010017		biolink:related_to	chmo
+BFO:0000053		biolink:related_to	cido	dron	ohd	opmi	pdro
+BFO:0000162		biolink:related_to	cido	iceo	ogg	ohpi	rxno
+OBO:CIDO_0000010		biolink:related_to	cido
+OBO:CIDO_0000022		biolink:related_to	cido
+OBO:CIDO_0000029		biolink:related_to	cido
+OBO:CIDO_0000030		biolink:related_to	cido
+OBO:CIDO_0000040		biolink:related_to	cido
+OBO:CIDO_0000045		biolink:related_to	cido
+OBO:CIDO_0000053		biolink:related_to	cido
+OBO:CIDO_0000118		biolink:related_to	cido
+OBO:CIDO_0000119		biolink:related_to	cido
+OBO:CIDO_0000120		biolink:related_to	cido
+OBO:CIDO_0000121		biolink:related_to	cido
+OBO:CIDO_0000122		biolink:related_to	cido
+OBO:CIDO_0000123		biolink:related_to	cido
+OBO:CIDO_0000124		biolink:related_to	cido
+OBO:CIDO_0000125		biolink:related_to	cido
+OBO:CIDO_0000126		biolink:related_to	cido
+OBO:CIDO_0000127		biolink:related_to	cido
+OBO:CIDO_0000128		biolink:related_to	cido
+OBO:CIDO_0000129		biolink:related_to	cido
+OBO:CIDO_0000130		biolink:related_to	cido
+OBO:CIDO_0000131		biolink:related_to	cido
+OBO:CIDO_0000132		biolink:related_to	cido
+OBO:CIDO_0000133		biolink:related_to	cido
+OBO:CIDO_0000140		biolink:related_to	cido
+OBO:CIDO_0000141		biolink:related_to	cido
+OBO:CIDO_0000144		biolink:related_to	cido
+OBO:CIDO_0000145		biolink:related_to	cido
+OBO:CIDO_0000148		biolink:related_to	cido
+OBO:CIDO_0000173		biolink:related_to	cido
+OBO:CIDO_0000175		biolink:related_to	cido
+OBO:CIDO_0000176		biolink:related_to	cido
+OBO:CIDO_0000184		biolink:related_to	cido
+OBO:CIDO_0000189		biolink:related_to	cido
+OBO:CIDO_0000208		biolink:related_to	cido
+OBO:CIDO_0000219		biolink:related_to	cido
+OBO:CIDO_0000221		biolink:related_to	cido
+OBO:CIDO_0000222		biolink:related_to	cido
+OBO:CIDO_0000224		biolink:related_to	cido
+OBO:CIDO_0000244		biolink:related_to	cido
+OBO:CIDO_0000248		biolink:related_to	cido
+OBO:CIDO_0000249		biolink:related_to	cido
+OBO:CIDO_0000269		biolink:related_to	cido
+OBO:CIDO_0000270		biolink:related_to	cido
+OBO:CIDO_0000281		biolink:related_to	cido
+OBO:CIDO_0000298		biolink:related_to	cido
+OBO:CIDO_0000299		biolink:related_to	cido
+OBO:CIDO_0000312		biolink:related_to	cido
+OBO:CIDO_0000359		biolink:related_to	cido
+OBO:CIDO_0000360		biolink:related_to	cido
+OBO:CIDO_0000386		biolink:related_to	cido
+OBO:CIDO_0000394		biolink:related_to	cido
+OBO:CIDO_0000410		biolink:related_to	cido
+OBO:CIDO_0000417		biolink:related_to	cido
+OBO:CIDO_0000433		biolink:related_to	cido
+OBO:CIDO_0000600		biolink:related_to	cido
+OBO:CIDO_0000609		biolink:related_to	cido
+OBO:CIDO_0000705		biolink:related_to	cido
+OBO:CIDO_0000706		biolink:related_to	cido
+OBO:CIDO_0000707		biolink:related_to	cido
+OBO:CIDO_0001177		biolink:related_to	cido
+OBO:CIDO_0001178		biolink:related_to	cido
+OBO:CIDO_0001179		biolink:related_to	cido
+OBO:CIDO_0001195		biolink:related_to	cido
+OBO:OPMI_0000439		biolink:related_to	cido
+OBO:OPMI_0000481		biolink:related_to	cido	opmi
+OBO:TEMP#has_gene_template		biolink:related_to	cido
+OBO:TEMP#lacks_part		biolink:related_to	cido
+OBO:TEMP#only_in_taxon		biolink:related_to	cido
+OBO:TEMP#output_of		biolink:related_to	cido
+OBO:has_role		biolink:related_to	cido
+OGG:0000000014		biolink:related_to	cido	ogg	ohpi	ovae
+OGG:0000000016		biolink:related_to	cido	iceo	ogg	ohpi	ovae	txpo
+RO:0000092	disposition of	biolink:related_to	cido
+RO:0002597	capable of negatively regulating	biolink:related_to	cido
+RO:0002598	capable of positively regulating	biolink:related_to	cido	txpo
+RO:0002606	is substance that treats	biolink:related_to	cido
+VO:0000520		biolink:related_to	cido	vo
+VO:0000524		biolink:related_to	cido	vo
+VO:0000530		biolink:related_to	cido	vo
+VO:0000547		biolink:related_to	cido	ovae	vo
+VO:0001243		biolink:related_to	cido	ogsf	ohpi	ovae	vo
+VO:0003355		biolink:related_to	cido	ogsf	ohpi	ovae	vo
+VO:0004909		biolink:related_to	cido
+VO:0005242		biolink:related_to	cido
+http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#CI_ChemClass		biolink:related_to	cido
+http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#CI_MoA		biolink:related_to	cido
+http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#CI_PE		biolink:related_to	cido
+http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#CI_with		biolink:related_to	cido
+http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#has_Ingredient		biolink:related_to	cido
+http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#has_MoA		biolink:related_to	cido
+http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#has_PE		biolink:related_to	cido
+http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#has_PK		biolink:related_to	cido
+http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#may_prevent		biolink:related_to	cido
+http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#may_treat		biolink:related_to	cido
+http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#site_of_metabolism		biolink:related_to	cido
+OBO:has_confidence_element		biolink:related_to	cio
+OBO:has_confidence_level		biolink:related_to	cio
+OBO:has_evidence_concordance		biolink:related_to	cio
+OBO:has_evidence_type_concordance		biolink:related_to	cio
+OBO:provides_greater_confidence_than		biolink:related_to	cio
+CL:4030044	has_not_completed	biolink:related_to	cl	hp	maxo	mondo	mp	oba	uberon
+OBO:uberon/core#trunk_part_of		biolink:related_to	cl	hp	maxo	mp	oba	uberon
+RO:0002101	fasciculates with	biolink:related_to	cl	fbbt	upheno
+RO:0002210	directly develops into	biolink:related_to	cl	mondo	mp	oba	uberon
+RO:0002225	develops from part of	biolink:related_to	cl	fbbt	fovt	hp	mondo	mp	oba	uberon
+RO:0002332	regulates levels of	biolink:related_to	cl	flopo	mp	oba	pcl	uberon	upheno	xpo
+RO:0002372	has muscle origin	biolink:related_to	cl	flopo	fovt	hp	mondo	mp	nbo	oba	pato	pcl	uberon	upheno
+RO:0002428	involved in regulation of	biolink:related_to	cl	hp	mondo	mp	oba	uberon
+RO:0002596	capable of regulating	biolink:related_to	cl	mondo	txpo
+RO:0012001	has small molecule activator	biolink:related_to	cl	oba	pcl
+RO:0013001	has synaptic IO in region	biolink:related_to	cl	fbbt	pcl	uberon
+RO:0013007	has sensory dendrite in	biolink:related_to	cl	fbbt	oba
+RO:0015010	has relative magnitude	biolink:related_to	cl	clo	flopo	hp	oba	pato	phipo	zp
+RO:0015015	has high plasma membrane amount	biolink:related_to	cl	flopo	hp	maxo	mondo	mp	oba	pcl	uberon
+RO:0015016	has low plasma membrane amount	biolink:related_to	cl	flopo	hp	maxo	mondo	mp	oba	pcl	uberon
+OBO:CLAO_0001220		biolink:related_to	clao
+OBO:CLAO_0001272		biolink:related_to	clao
+OBO:CLAO_0001291		biolink:related_to	clao
+OBO:CLAO_0001292		biolink:related_to	clao
+OBO:CLAO_0001298		biolink:related_to	clao
+OBO:CLAO_0001460		biolink:related_to	clao
+OBO:CLAO_0001531		biolink:related_to	clao
+OBO:CLAO_0001542		biolink:related_to	clao
+OBO:CLAO_0001543		biolink:related_to	clao
+OBO:CLAO_0001545		biolink:related_to	clao
+PATO:0001916	posterodorsal to	biolink:related_to	clao
+PATO:0001918	posteroventral to	biolink:related_to	clao
+BFO:0000086		biolink:related_to	clo	ogsf
+CLO:0000015		biolink:related_to	clo	ohpi
+CLO:0000179		biolink:related_to	clo	ohpi
+CLO:0037207		biolink:related_to	clo
+CLO:0037208		biolink:related_to	clo	ohpi
+CLO:0037209		biolink:related_to	clo
+CLO:0037210		biolink:related_to	clo
+OBO:cl#has_completed		biolink:related_to	clo	upheno
+OBO:cl#has_high_plasma_membrane_amount		biolink:related_to	clo	upheno
+OBO:cl#has_low_plasma_membrane_amount		biolink:related_to	clo	upheno
+OBO:cl#has_not_completed		biolink:related_to	clo
+OBO:cl#lacks_part		biolink:related_to	clo	ecocore	flopo	obib	upheno
+OBO:cl#lacks_plasma_membrane_part		biolink:related_to	clo	cteno	ecocore	flopo	upheno
+OBO:pr#lacks_part		biolink:related_to	clo	maxo	mp	oba	pr	upheno
+OBO:cmo#has_component		biolink:related_to	cmo
+OBO:cmo#part_of		biolink:related_to	cmo
+OBO:COB_0000081		biolink:related_to	cob	maxo
+RO:0000058	is concretized as	biolink:related_to	cob	psdo
+OBO:OPMI_0000366		biolink:related_to	cto	opmi
+BFO:0000058		biolink:related_to	cvdo	ogg	ogsf	ovae
+BFO:0000082		biolink:related_to	cvdo	ogsf	ontoneo
+BFO:0000083		biolink:related_to	cvdo	iceo	ogg	ogsf	ovae
+BFO:0000108		biolink:related_to	cvdo	ogg	ogsf	ovae
+BFO:0000113		biolink:related_to	cvdo	htn	ogsf
+BFO:0000132		biolink:related_to	cvdo	mfoem	mfomd	mop
+BFO:0000151		biolink:related_to	cvdo	ogg	ogsf	ovae
+BFO:0000153		biolink:related_to	cvdo	ogg	ogsf	ovae
+BFO:0000169		biolink:related_to	cvdo	ogg	ogsf	ovae
+BFO:0000184		biolink:related_to	cvdo	ogg
+OBI:1110060	process is result of	biolink:related_to	dideo	mpio	obi
+OBO:so#has_origin		biolink:related_to	doid	so
+RO:0001022	has allergic trigger	biolink:related_to	doid
+RO:0002451	transmitted by	biolink:related_to	doid	genepio	mondo
+RO:0002452	has symptom	biolink:related_to	doid
+RO:0003304	contributes to condition	biolink:related_to	doid	ohd
+RO:0004019	disease has basis in	biolink:related_to	doid	vo
+RO:0004026	disease has location	biolink:related_to	doid	mondo	oba
+RO:0004029	disease has feature	biolink:related_to	doid	mondo	oba
+RO:0007001	has disease driver	biolink:related_to	doid
+FBdv:00018001	substage of	biolink:related_to	dpo	fbdv	upheno
+DUO:0000010		biolink:related_to	duo
+ECO:9000000	used_in	biolink:related_to	eco
+RO:0002470	eats	biolink:related_to	ecocore
+RO:0002634	endoparasite of	biolink:related_to	ecocore
+ENVO:02500020	results in proliferation of	biolink:related_to	ecto	gaz
+ENVO:2000036	generates	biolink:related_to	ecto	envo	gaz	slso
+FOODON:00001301	has food substance analog	biolink:related_to	ecto	mondo
+FOODON:00001563	has defining ingredient	biolink:related_to	ecto	maxo
+FOODON:00002420	has ingredient	biolink:related_to	ecto	maxo
+OBO:exo#interacts_with_an_exposure_receptor_via		biolink:related_to	ecto	exo	slso
+OBO:exo#interacts_with_an_exposure_stressor_via		biolink:related_to	ecto	exo	slso
+OBO:pato#decreased_in_magnitude_relative_to		biolink:related_to	ecto	ontoneo	pco	planp	upheno
+OBO:pato#increased_in_magnitude_relative_to		biolink:related_to	ecto	ontoneo	pco	planp	upheno
+RO:0002242	has exposure route	biolink:related_to	ecto
+RO:0002243	has exposure transport path	biolink:related_to	ecto
+RO:0002309	has exposure stimulus	biolink:related_to	ecto	mondo
+RO:0002418	causally upstream of or within	biolink:related_to	ecto	envo	gaz
+RO:0002427	causally downstream of or within	biolink:related_to	ecto	envo	gaz	slso
+RO:0016004	has exposure medium	biolink:related_to	ecto
+BFO:0000069		biolink:related_to	ehdaa2
+OBO:emapa#develops_from		biolink:related_to	emapa
+OBO:emapa#ends_at		biolink:related_to	emapa
+OBO:emapa#part_of		biolink:related_to	emapa
+OBO:emapa#starts_at		biolink:related_to	emapa
+ENVO:01003004	derives from part of	biolink:related_to	envo
+ENVO:02000200	has increased levels of	biolink:related_to	envo	mondo	slso
+ENVO:02500016	results in expansion of	biolink:related_to	envo	gaz	slso
+RO:0002084	during which ends	biolink:related_to	envo	gaz
+RO:0002088	during which starts	biolink:related_to	envo	gaz
+RO:0002091	starts during	biolink:related_to	envo	gaz
+RO:0002314	characteristic of part of	biolink:related_to	envo	fovt	oba	ontoneo
+RO:0002331	involved in	biolink:related_to	envo	oba	omit	pr
+RO:0002377	distributary of	biolink:related_to	envo	gaz	oarcs
+RO:0002430	involved in negative regulation of	biolink:related_to	envo	gaz
+RO:0002479	has part that occurs in	biolink:related_to	envo	gaz
+https://bio.scai.fraunhofer.de/ontology/0000401		biolink:related_to	epio
+https://bio.scai.fraunhofer.de/ontology/0000403		biolink:related_to	epio
+https://bio.scai.fraunhofer.de/ontology/0000405		biolink:related_to	epio
+https://bio.scai.fraunhofer.de/ontology/0000409		biolink:related_to	epio
+https://bio.scai.fraunhofer.de/ontology/0000410		biolink:related_to	epio
+https://bio.scai.fraunhofer.de/ontology/0000412		biolink:related_to	epio
+https://bio.scai.fraunhofer.de/ontology/0000414		biolink:related_to	epio
+https://bio.scai.fraunhofer.de/ontology/0000416		biolink:related_to	epio
+https://bio.scai.fraunhofer.de/ontology/0000418		biolink:related_to	epio
+https://bio.scai.fraunhofer.de/ontology/0000420		biolink:related_to	epio
+https://bio.scai.fraunhofer.de/ontology/ac113c60_c3d8_48f2_871c_cc34524d844f		biolink:related_to	epio
+https://bio.scai.fraunhofer.de/ontology/cac13978_e4e8_4240_907f_80ddfd3af981		biolink:related_to	epio
+:http://eagle-i.org/ont/app/1.0/inPropertyGroup		:http://eagle-i.org/ont/app/1.0/inPropertyGroup	ero
+IAO:0000114	has curation status	biolink:related_to	ero
+IAO:0000412	imported from	biolink:related_to	ero	ohpi
+OBI:0000300	obsolete_is_realized_by	biolink:related_to	ero
+OBI:0000306	obsolete_has_function	biolink:related_to	ero
+OBI:0000308	obsolete_realizes	biolink:related_to	ero
+OBI:0000316	obsolete_has_role	biolink:related_to	ero
+OBI:0000833	objective_achieved_by	biolink:related_to	ero
+OBO:ERO_0000543		biolink:related_to	ero
+OBO:ERO_0000573		biolink:related_to	ero
+OBO:ERO_0000618		biolink:related_to	ero
+OBO:ERO_0001055		biolink:related_to	ero
+OBO:ERO_0001056		biolink:related_to	ero
+OBO:ERO_0001518		biolink:related_to	ero
+OBO:ERO_0001811		biolink:related_to	ero
+OBO:ERO_0001908		biolink:related_to	ero
+OIO:replacedBy		biolink:related_to	ero
+RO:0001900	temporal interpretation	biolink:related_to	ero
+owl:disjointWith		owl:disjointWith	ero	poro
+owl:inverseOf		owl:inverseOf	ero	poro
+rdfs:domain		rdfs:domain	ero	poro	scdo
+rdfs:isDefinedBy		rdfs:isDefinedBy	ero
+rdfs:range		rdfs:range	ero	poro	scdo
+rdfs:subPropertyOf		biolink:subclass_of	ero	poro	scdo
+IAO:0000142	mentions	biolink:related_to	eupath	genepio	ons	vo
+IAO:0000413	is duration of	biolink:related_to	eupath	obcs	obi	obib	one
+OBI:0000107	provides_service_consumer_with	biolink:related_to	eupath	obi	obib	one	opmi
+OBI:0000646	provisions	biolink:related_to	eupath	obi
+OBI:0000846	is member of organization	biolink:related_to	eupath	obi	obib	oostt
+OBI:0001688	has organization member	biolink:related_to	eupath	obi	obib	oostt
+OBO:COB_0000016		biolink:related_to	eupath
+RO:0002248	has active ingredient	biolink:related_to	eupath	ons
+OBO:exo#characterizes		biolink:related_to	exo
+OBO:exo#is_associated_with		biolink:related_to	exo
+OBO:exo#targeted_to		biolink:related_to	exo
+FBbi:00000346		biolink:related_to	fbbi
+OBO:so#member_of		biolink:related_to	fbbt	fypo	maxo	mondo	oba	pcl	so
+RO:0002003	electrically_synapsed_to	biolink:related_to	fbbt	upheno
+RO:0002105	synapsed_via_type_Ib_bouton_to	biolink:related_to	fbbt	upheno
+RO:0002106	synapsed_via_type_Is_bouton_to	biolink:related_to	fbbt	upheno
+RO:0002107	synapsed_via_type_II_bouton_to	biolink:related_to	fbbt	upheno
+RO:0002114	synapsed_via_type_III_bouton_to	biolink:related_to	fbbt	upheno
+RO:0002132	has fasciculating neuron projection	biolink:related_to	fbbt
+RO:0002485	receives input from	biolink:related_to	fbbt
+RO:0013002	receives synaptic input in region	biolink:related_to	fbbt
+RO:0013003	sends synaptic output to region	biolink:related_to	fbbt
+RO:0013004	has synaptic IO throughout	biolink:related_to	fbbt
+RO:0013005	receives synaptic input throughout	biolink:related_to	fbbt
+RO:0013006	sends synaptic output throughout	biolink:related_to	fbbt
+RO:0013008	receives synaptic input from neuron	biolink:related_to	fbbt
+RO:0013009	sends synaptic output to cell	biolink:related_to	fbbt
+OBO:fbcv#conditionality		biolink:related_to	fbcv
+RO:0002092	happens during	biolink:related_to	fbdv	fypo	go	oae	oba	phipo	plana	planp	upheno	wbphenotype	zp
+OBO:fix#BY		biolink:related_to	fix
+OBO:fix#part_of		biolink:related_to	fix
+OBO:po#derives_by_manipulation_from		biolink:related_to	flopo
+RO:0002322	confers advantage in	biolink:related_to	flopo	fovt	mondo	mp	uberon	upheno
+RO:0019000	regulates characteristic	biolink:related_to	flopo	mp	oba	uberon	upheno
+RO:0019001	positively regulates characteristic	biolink:related_to	flopo	oba	upheno
+RO:0019002	negatively regulates characteristic	biolink:related_to	flopo	oba	upheno
+OBO:fma#attaches_to		biolink:related_to	fma
+OBO:fma#bounds		biolink:related_to	fma
+OBO:fma#branch_of		biolink:related_to	fma
+OBO:fma#constitutional_part_of		biolink:related_to	fma	ontoneo
+OBO:fma#regional_part_of		biolink:related_to	fma	ontoneo
+OBO:fma#systemic_part_of		biolink:related_to	fma	ontoneo
+OBO:FOBI_00422		biolink:related_to	fobi
+OBO:FOBI_00424		biolink:related_to	fobi
+BSPO:0020001	in central side of	biolink:related_to	fovt	hp	oba	uberon
+RO:0002374	derived from ancestral fusion of	biolink:related_to	fovt	hp	maxo	mondo	mp	oba	uberon	upheno
+OBO:GOREL_0000001		biolink:related_to	fypo
+OBO:GOREL_0000032		biolink:related_to	fypo
+OBO:GOREL_0000501		biolink:related_to	fypo
+OBO:fypo#has_output		biolink:related_to	fypo
+OBO:fypo#output_of		biolink:related_to	fypo
+OBO:so#adjacent_to		biolink:related_to	fypo	so
+OBO:so#derives_from		biolink:related_to	fypo	maxo	mondo	oba	so
+OBO:so#has_part		biolink:related_to	fypo	mondo	so
+OBO:so#has_quality		biolink:related_to	fypo	mondo	so
+OBO:so#overlaps		biolink:related_to	fypo	maxo	mondo	oba	so
+OBO:so#part_of		biolink:related_to	fypo	maxo	mondo	oba	so
+RO:0002093	ends during	biolink:related_to	fypo	go	oba	phipo	upheno	wbphenotype	zp
+RO:0002573	qualifier	biolink:related_to	fypo	htn	mondo	mp
+OBO:GALLONT_0000059		biolink:related_to	gallont
+OBO:UBREL_0000001		biolink:related_to	gaz
+OBO:gaz#overlapped_by		biolink:related_to	gaz
+OBO:gaz#proper_partof		biolink:related_to	gaz
+RO:0002378	anabranch of	biolink:related_to	gaz
+RO:0002379	spatially coextensive with	biolink:related_to	gaz
+GENEPIO:0001739		biolink:related_to	genepio
+RO:0002001	aligned with	biolink:related_to	genepio
+RO:0002083	before	biolink:related_to	genepio	omrse
+RO:0002404	causally downstream of	biolink:related_to	genepio
+GENO:0000207		biolink:related_to	geno
+GENO:0000231		biolink:related_to	geno
+GENO:0000239		biolink:related_to	geno	slso
+GENO:0000248		biolink:related_to	geno
+GENO:0000251		biolink:related_to	geno	slso
+GENO:0000382		biolink:related_to	geno
+GENO:0000385		biolink:related_to	geno
+GENO:0000408		biolink:related_to	geno
+GENO:0000443		biolink:related_to	geno
+GENO:0000447		biolink:related_to	geno
+GENO:0000580		biolink:related_to	geno	slso
+GENO:0000641		biolink:related_to	geno
+GENO:0000650		biolink:related_to	geno
+GENO:0000683		biolink:related_to	geno
+GENO:0000726		biolink:related_to	geno	slso
+GENO:0000783		biolink:related_to	geno
+GENO:0000784		biolink:related_to	geno
+GENO:0000903		biolink:related_to	geno	slso
+GENO:0000968		biolink:related_to	geno
+OBAN:association_has_object		biolink:related_to	geno
+RO:0002525	is subsequence of	biolink:related_to	geno
+OBO:HANCESTRO_0301		biolink:related_to	hancestro
+OBO:HANCESTRO_0330		biolink:related_to	hancestro
+OBO:HAO#_attached_to		biolink:related_to	hao
+OBO_REL:0000004		biolink:related_to	hao
+RO:0002159	serially homologous to	biolink:related_to	hp	mondo	mp	oba	uberon	upheno
+OBO:HSO_0000242		biolink:related_to	hso
+OBO:HSO_0000243		biolink:related_to	hso
+OBO:HSO_0000295		biolink:related_to	hso
+OBO:HTN_00000028		biolink:related_to	htn
+http://purl.org/obo/owl/OBO_REL#exists_during		biolink:related_to	htn	ontoneo
+IDO:0100541		biolink:related_to	iceo
+OBO:ICEO_0000019		biolink:related_to	iceo
+OBO:ICEO_0000020		biolink:related_to	iceo
+OBO:ICEO_0000023		biolink:related_to	iceo
+OBO:ICEO_0000032		biolink:related_to	iceo
+OBO:ICEO_0000051		biolink:related_to	iceo
+OBO:ICEO_0000350		biolink:related_to	iceo
+OBO:TEMP#agent_in		biolink:related_to	idomal
+OBO:TEMP#bearer_of		biolink:related_to	idomal
+OBO:TEMP#happens_during		biolink:related_to	idomal
+OBO:TEMP#has_role		biolink:related_to	idomal
+OBO:TEMP#part_of		biolink:related_to	idomal	spd
+OBO:TEMP#participates_in		biolink:related_to	idomal
+OBO:TEMP#preceded_by		biolink:related_to	idomal
+OBO:TEMP#precedes		biolink:related_to	idomal
+OBO:TEMP#realized_by		biolink:related_to	idomal
+OBO_REL:0000034		biolink:related_to	idomal
+OBO:INO_0000154		biolink:has_attribute	ino
+http://www.biomodels.net/kisao/KISAO#KISAO_0000245		biolink:related_to	kisao
+http://www.biomodels.net/kisao/KISAO#KISAO_0000246		biolink:related_to	kisao
+http://www.biomodels.net/kisao/KISAO#KISAO_0000250		biolink:related_to	kisao
+http://www.biomodels.net/kisao/KISAO#KISAO_0000259		biolink:related_to	kisao
+http://www.biomodels.net/kisao/KISAO#KISAO_0000359		biolink:related_to	kisao
+http://www.biomodels.net/kisao/KISAO#KISAO_0000360		biolink:related_to	kisao
+http://www.biomodels.net/kisao/KISAO#KISAO_0000361		biolink:related_to	kisao
+http://www.biomodels.net/kisao/KISAO#KISAO_0000399		biolink:related_to	kisao
+OBO:ma#part_of		biolink:related_to	ma
+http://identifiers.org/mamo#hasFeature		biolink:related_to	mamo
+http://identifiers.org/mamo#isUsedToModel		biolink:related_to	mamo
+OBO:MAXO_0000521		biolink:related_to	maxo
+OBO:MAXO_0000864		biolink:related_to	maxo	mondo
+OBO:MAXO_0001015		biolink:related_to	maxo
+OBO:MAXO_0001027		biolink:related_to	maxo
+OBO:mco.owl/MCO_0000858		biolink:related_to	mco
+OBO:mco.owl/MCO_0000860		biolink:related_to	mco
+OBO:omit.owl/MCO_0000866		biolink:related_to	mco
+OBO:omit.owl/MCO_0000867		biolink:related_to	mco
+http://www.ebi.ac.uk/efo/swo/SWO_0000741		biolink:related_to	mcro
+http://www.ebi.ac.uk/swo/SWO_0040005		biolink:related_to	mcro	swo
+http://www.ebi.ac.uk/swo/SWO_9001002		biolink:related_to	mcro	swo
+http://www.ebi.ac.uk/swo/has_license		biolink:related_to	mcro	swo
+http://www.ebi.ac.uk/swo/license/SWO_1000048		biolink:related_to	mcro	swo
+http://www.w3.org/ns/prov#specializationOf		biolink:related_to	mcro	miapa
+http://www.w3.org/ns/prov#wasDerivedFrom		biolink:related_to	mcro
+http://www.w3.org/ns/prov#wasRevisionOf		biolink:related_to	mcro	miapa
+BFO:0000107		biolink:related_to	mf	mfoem	mfomd
+BFO:0000112		biolink:related_to	mf	mfoem	mfomd
+BFO:0000176		biolink:related_to	mf	mfoem	mfomd
+MFMO:0000001		biolink:related_to	mfmo
+MFMO:0000003		biolink:related_to	mfmo
+MFMO:0000124		biolink:related_to	mfmo
+MFMO:0000142		biolink:related_to	mfmo
+MFMO:0000143		biolink:related_to	mfmo
+MFMO:0000144		biolink:related_to	mfmo
+OBO:attaches_to		biolink:related_to	mfmo
+OBO:mfmo.owl#attached_to_dorsal_surface_of		biolink:related_to	mfmo
+OBO:mfmo.owl#attached_to_lateral_surface_of		biolink:related_to	mfmo
+OBO:mfmo.owl#attached_to_medial_surface_of		biolink:related_to	mfmo
+OBO:mfmo.owl#attached_to_ventral_surface_of		biolink:related_to	mfmo
+OBO:mfmo.owl#deep_to		biolink:related_to	mfmo
+OBO:mfmo.owl#superficial_to		biolink:related_to	mfmo
+RO:0002163	spatially disjoint from	biolink:related_to	mfmo
+MFOEM:000008		biolink:related_to	mfoem
+OBO:MF#hasAgent		biolink:related_to	mfoem
+OBO:MF#hasPart		biolink:related_to	mfoem
+OBO:MF#inheresIn		biolink:related_to	mfoem
+OBO:MF#manifestationOf		biolink:related_to	mfomd	mondo
+CDAO:0000194		biolink:related_to	miapa
+MICRO:0000001		biolink:related_to	micro
+MICRO:0000029		biolink:related_to	micro
+MICRO:0000032		biolink:related_to	micro
+MICRO:0000034		biolink:related_to	micro
+MICRO:0000035		biolink:related_to	micro
+MICRO:0000065		biolink:related_to	micro
+MICRO:0000105		biolink:related_to	micro
+MICRO:0000107		biolink:related_to	micro
+MICRO:0000108		biolink:related_to	micro
+MICRO:0000110		biolink:related_to	micro
+MICRO:0000135		biolink:related_to	micro
+MICRO:0000469		biolink:related_to	micro
+MICRO:0000470		biolink:related_to	micro
+MICRO:0000472		biolink:related_to	micro
+MICRO:0000473		biolink:related_to	micro
+MICRO:0000475		biolink:related_to	micro
+MICRO:0000477		biolink:related_to	micro
+MICRO:0000940		biolink:related_to	micro
+MICRO:0001197		biolink:related_to	micro
+MICRO:0001198		biolink:related_to	micro
+MICRO:0001199		biolink:related_to	micro
+MICRO:0001200		biolink:related_to	micro
+MICRO:0001203		biolink:related_to	micro
+MICRO:0001206		biolink:related_to	micro
+MICRO:0001208		biolink:related_to	micro
+MICRO:0001213		biolink:related_to	micro
+MICRO:0001215		biolink:related_to	micro
+MICRO:0001217		biolink:related_to	micro
+MICRO:0001218		biolink:related_to	micro
+MICRO:0001219		biolink:related_to	micro
+MICRO:0001221		biolink:related_to	micro
+MICRO:0001244		biolink:related_to	micro
+MICRO:0001245		biolink:related_to	micro
+MICRO:0001288		biolink:related_to	micro
+MICRO:0001301		biolink:related_to	micro
+MICRO:0001302		biolink:related_to	micro
+MICRO:0001371		biolink:related_to	micro
+MICRO:0001391		biolink:related_to	micro
+MICRO:0001431		biolink:related_to	micro
+MICRO:0001460		biolink:related_to	micro
+MICRO:0001461		biolink:related_to	micro
+MICRO:0001462		biolink:related_to	micro
+MICRO:0001463		biolink:related_to	micro
+MICRO:0001465		biolink:related_to	micro
+MICRO:0001466		biolink:related_to	micro
+MICRO:0001467		biolink:related_to	micro
+MICRO:0001468		biolink:related_to	micro
+MICRO:0001502		biolink:related_to	micro
+MICRO:0001521		biolink:related_to	micro
+MICRO:0001522		biolink:related_to	micro
+MICRO:0001523		biolink:related_to	micro
+MICRO:0001524		biolink:related_to	micro
+MICRO:0001550		biolink:related_to	micro
+OBO:MicrO_1207		biolink:related_to	micro
+OBO:uberon/core#evolved_from		biolink:related_to	micro	oae	ovae
+OBO:OBO_REL#_has_quality		biolink:related_to	miro
+OBO:OBO_REL#_has_role		biolink:related_to	miro
+OBO_REL:influences		biolink:related_to	miro
+OBO_REL:realizes		biolink:related_to	miro
+OBO:mod#contains		biolink:related_to	mod
+OBO:mod#derives_from		biolink:related_to	mod
+OBO:mod#has_functional_parent		biolink:related_to	mod
+OBO:mod#part_of		biolink:related_to	mod
+MONDO:0100332	disease has primary infectious agent	biolink:related_to	mondo	oba
+MONDO:0100333	disease caused by reactivation of latent infectious agent	biolink:related_to	mondo
+NCIT:R163	Procedure_Has_Target_Anatomy	biolink:related_to	mondo	ncit
+NCIT:R81	Anatomic_Structure_Has_Location	biolink:related_to	mondo	ncit
+NCIT:R82	Anatomic_Structure_Is_Physical_Part_Of	biolink:related_to	mondo	ncit
+OBO:mondo#disease_has_basis_in_accumulation_of		biolink:related_to	mondo
+OBO:mondo#disease_has_basis_in_development_of		biolink:related_to	mondo
+OBO:mondo#disease_has_major_feature		biolink:related_to	mondo	oba
+OBO:mondo#disease_responds_to		biolink:related_to	mondo
+OBO:mondo#disease_shares_features_of		biolink:related_to	mondo
+OBO:mondo#disease_triggers		biolink:related_to	mondo
+OBO:mondo#has_onset_before		biolink:related_to	mondo
+OBO:mondo#has_onset_during_or_after		biolink:related_to	mondo
+OBO:mondo#part_of_progression_of_disease		biolink:related_to	mondo
+OBO:mondo#predisposes_towards		biolink:related_to	mondo	oba
+RO:0004001	has material basis in gain of function germline mutation in	biolink:related_to	mondo
+RO:0004003	has material basis in germline mutation in	biolink:related_to	mondo
+RO:0004004	has material basis in somatic mutation in	biolink:related_to	mondo
+RO:0004020	disease has basis in dysfunction of	biolink:related_to	mondo	oba
+RO:0004021	disease caused by disruption of	biolink:related_to	mondo	oba
+RO:0004024	disease disrupts	biolink:related_to	mondo	oba
+RO:0004027	disease has inflammation site	biolink:related_to	mondo	oba
+RO:0004028	realized in response to stimulus	biolink:related_to	mondo	oba
+RO:0009501	realized in response to	biolink:related_to	mondo
+RO:0014001	disease has infectious agent	biolink:related_to	mondo	oba	pso
+BFO:0000077		biolink:related_to	mop	rxno
+BFO:0000078		biolink:related_to	mop	rxno
+BFO:0000119		biolink:related_to	mop
+BFO:0000133		biolink:related_to	mop	ogg
+MOP:0000769		biolink:related_to	mop
+OBO:mpath#part_of		biolink:related_to	mp	mpath	upheno	zp
+RO:0002505	has intermediate	biolink:related_to	mp	oba	pcl	uberon
+MRO:0000000	haplotype member of	biolink:related_to	mro
+MRO:0000001	serotype member of	biolink:related_to	mro
+MRO:0000002	is synthetic protein mutant of	biolink:related_to	mro
+RO:0002204	gene product of	biolink:related_to	mro
+OBO:ms#has_column		biolink:related_to	ms
+OBO:ms#has_domain		biolink:related_to	ms
+OBO:ms#has_metric_category		biolink:related_to	ms
+OBO:ms#has_optional_column		biolink:related_to	ms
+OBO:ms#has_order		biolink:related_to	ms
+OBO:ms#has_regexp		biolink:related_to	ms
+OBO:ms#has_relation		biolink:related_to	ms
+OBO:ms#has_structured_representation_in_format		biolink:related_to	ms
+OBO:ms#has_units		biolink:related_to	ms
+OBO:ms#has_value_concept		biolink:related_to	ms
+OBO:ms#has_value_type		biolink:related_to	ms
+OBO:nbo#is_about		biolink:related_to	nbo	oba	upheno
+NCIT:R100	Disease_Has_Associated_Anatomic_Site	biolink:related_to	ncit
+NCIT:R101	Disease_Has_Primary_Anatomic_Site	biolink:related_to	ncit
+NCIT:R102	Disease_Has_Metastatic_Anatomic_Site	biolink:related_to	ncit
+NCIT:R103	Disease_Has_Normal_Tissue_Origin	biolink:related_to	ncit
+NCIT:R104	Disease_Has_Normal_Cell_Origin	biolink:related_to	ncit
+NCIT:R105	Disease_Has_Abnormal_Cell	biolink:related_to	ncit
+NCIT:R106	Disease_Has_Molecular_Abnormality	biolink:related_to	ncit
+NCIT:R107	Disease_Has_Cytogenetic_Abnormality	biolink:related_to	ncit
+NCIT:R108	Disease_Has_Finding	biolink:related_to	ncit
+NCIT:R110	Disease_Is_Grade	biolink:related_to	ncit
+NCIT:R111	Disease_May_Have_Normal_Tissue_Origin	biolink:related_to	ncit
+NCIT:R112	Disease_May_Have_Normal_Cell_Origin	biolink:related_to	ncit
+NCIT:R113	Disease_May_Have_Abnormal_Cell	biolink:related_to	ncit
+NCIT:R114	Disease_May_Have_Cytogenetic_Abnormality	biolink:related_to	ncit
+NCIT:R115	Disease_May_Have_Finding	biolink:related_to	ncit
+NCIT:R116	Disease_May_Have_Associated_Disease	biolink:related_to	ncit
+NCIT:R122	Chemical_Or_Drug_Is_Metabolized_By_Enzyme	biolink:related_to	ncit
+NCIT:R123	Chemotherapy_Regimen_Has_Component	biolink:related_to	ncit
+NCIT:R124	Chemical_Or_Drug_Has_Mechanism_Of_Action	biolink:related_to	ncit
+NCIT:R125	Chemical_Or_Drug_Has_Physiologic_Effect	biolink:related_to	ncit
+NCIT:R126	Disease_Has_Associated_Disease	biolink:related_to	ncit
+NCIT:R130	Gene_Is_Element_In_Pathway	biolink:related_to	ncit
+NCIT:R131	Gene_Product_Is_Element_In_Pathway	biolink:related_to	ncit
+NCIT:R132	Gene_Has_Abnormality	biolink:related_to	ncit
+NCIT:R133	Gene_Product_Has_Abnormality	biolink:related_to	ncit
+NCIT:R135	Disease_Excludes_Primary_Anatomic_Site	biolink:related_to	ncit
+NCIT:R136	Disease_Excludes_Metastatic_Anatomic_Site	biolink:related_to	ncit
+NCIT:R137	Disease_Excludes_Normal_Tissue_Origin	biolink:related_to	ncit
+NCIT:R138	Disease_Excludes_Normal_Cell_Origin	biolink:related_to	ncit
+NCIT:R139	Disease_Excludes_Abnormal_Cell	biolink:related_to	ncit
+NCIT:R140	Disease_Excludes_Molecular_Abnormality	biolink:related_to	ncit
+NCIT:R141	Disease_Excludes_Cytogenetic_Abnormality	biolink:related_to	ncit
+NCIT:R142	Disease_Excludes_Finding	biolink:related_to	ncit
+NCIT:R145	Gene_Has_Physical_Location	biolink:related_to	ncit
+NCIT:R146	Chemical_Or_Drug_Affects_Gene_Product	biolink:related_to	ncit
+NCIT:R150	Chemical_Or_Drug_Affects_Abnormal_Cell	biolink:related_to	ncit
+NCIT:R153	Allele_Has_Abnormality	biolink:related_to	ncit
+NCIT:R155	Allele_In_Chromosomal_Location	biolink:related_to	ncit
+NCIT:R156	Allele_Absent_From_Wild-type_Chromosomal_Location	biolink:related_to	ncit
+NCIT:R158	Allele_Plays_Altered_Role_In_Process	biolink:related_to	ncit
+NCIT:R159	Allele_Has_Activity	biolink:related_to	ncit
+NCIT:R160	Allele_Plays_Role_In_Metabolism_Of_Chemical_Or_Drug	biolink:related_to	ncit
+NCIT:R165	Procedure_Has_Imaged_Anatomy	biolink:related_to	ncit
+NCIT:R166	Procedure_May_Have_Excised_Anatomy	biolink:related_to	ncit
+NCIT:R167	Procedure_Has_Excised_Anatomy	biolink:related_to	ncit
+NCIT:R168	Procedure_May_Have_Partially_Excised_Anatomy	biolink:related_to	ncit
+NCIT:R169	Procedure_Has_Partially_Excised_Anatomy	biolink:related_to	ncit
+NCIT:R170	Procedure_May_Have_Completely_Excised_Anatomy	biolink:related_to	ncit
+NCIT:R171	Procedure_Has_Completely_Excised_Anatomy	biolink:related_to	ncit
+NCIT:R172	Regimen_Has_Accepted_Use_For_Disease	biolink:related_to	ncit
+NCIT:R173	Cytogenetic_Abnormality_Involves_Chromosome	biolink:related_to	ncit
+NCIT:R174	Disease_Mapped_To_Chromosome	biolink:related_to	ncit
+NCIT:R175	Gene_Involved_In_Pathogenesis_Of_Disease	biolink:related_to	ncit
+NCIT:R176	Disease_Mapped_To_Gene	biolink:related_to	ncit
+NCIT:R177	Molecular_Abnormality_Involves_Gene	biolink:related_to	ncit
+NCIT:R178	Gene_Mutant_Encodes_Gene_Product_Sequence_Variation	biolink:related_to	ncit
+NCIT:R179	Gene_Product_Sequence_Variation_Encoded_By_Gene_Mutant	biolink:related_to	ncit
+NCIT:R182	Gene_Product_Variant_Of_Gene_Product	biolink:related_to	ncit
+NCIT:R23	EO_Disease_Has_Associated_Cell_Type	biolink:related_to	ncit
+NCIT:R24	EO_Disease_Maps_To_Human_Disease	biolink:related_to	ncit
+NCIT:R25	EO_Disease_Has_Associated_EO_Anatomy	biolink:related_to	ncit
+NCIT:R26	EO_Disease_Has_Property_Or_Attribute	biolink:related_to	ncit
+NCIT:R27	Conceptual_Part_Of	biolink:related_to	ncit
+NCIT:R28	Biological_Process_Has_Initiator_Process	biolink:related_to	ncit
+NCIT:R29	Biological_Process_Has_Result_Chemical_Or_Drug	biolink:related_to	ncit
+NCIT:R30	Biological_Process_Has_Associated_Location	biolink:related_to	ncit
+NCIT:R31	Biological_Process_Has_Result_Anatomy	biolink:related_to	ncit
+NCIT:R32	Biological_Process_Has_Initiator_Chemical_Or_Drug	biolink:related_to	ncit
+NCIT:R34	Biological_Process_Has_Result_Biological_Process	biolink:related_to	ncit
+NCIT:R35	Biological_Process_Is_Part_Of_Process	biolink:related_to	ncit
+NCIT:R36	Gene_Is_Biomarker_Type	biolink:related_to	ncit
+NCIT:R37	Gene_Plays_Role_In_Process	biolink:related_to	ncit
+NCIT:R38	Gene_Associated_With_Disease	biolink:related_to	ncit
+NCIT:R39	Gene_Is_Biomarker_Of	biolink:related_to	ncit
+NCIT:R40	Gene_In_Chromosomal_Location	biolink:related_to	ncit
+NCIT:R41	Gene_Found_In_Organism	biolink:related_to	ncit
+NCIT:R42	Gene_Product_Is_Biomarker_Type	biolink:related_to	ncit
+NCIT:R44	Gene_Product_Has_Chemical_Classification	biolink:related_to	ncit
+NCIT:R45	Gene_Product_Has_Organism_Source	biolink:related_to	ncit
+NCIT:R46	Gene_Product_Has_Associated_Anatomy	biolink:related_to	ncit
+NCIT:R47	Gene_Product_Is_Biomarker_Of	biolink:related_to	ncit
+NCIT:R48	Gene_Product_Malfunction_Associated_With_Disease	biolink:related_to	ncit
+NCIT:R49	Gene_Product_Expressed_In_Tissue	biolink:related_to	ncit
+NCIT:R50	Gene_Product_Has_Structural_Domain_Or_Motif	biolink:related_to	ncit
+NCIT:R51	Gene_Product_Is_Physical_Part_Of	biolink:related_to	ncit
+NCIT:R52	Gene_Product_Has_Biochemical_Function	biolink:related_to	ncit
+NCIT:R53	Gene_Product_Plays_Role_In_Biological_Process	biolink:related_to	ncit
+NCIT:R54	Gene_Product_Encoded_By_Gene	biolink:related_to	ncit
+NCIT:R66	Chemical_Or_Drug_Plays_Role_In_Biological_Process	biolink:related_to	ncit
+NCIT:R72	Chemical_Or_Drug_Affects_Cell_Type_Or_Tissue	biolink:related_to	ncit
+NCIT:R88	Disease_Is_Stage	biolink:related_to	ncit
+NCIT:R89	Disease_May_Have_Molecular_Abnormality	biolink:related_to	ncit
+NCRO:0004006		biolink:related_to	ncro	omit
+NCRO:0004007		biolink:related_to	ncro	omit
+NCRO:0004008		biolink:related_to	ncro	omit
+NCRO:0004009		biolink:related_to	ncro	omit
+NCRO:0004010		biolink:related_to	ncro	omit
+NCRO:0004011		biolink:related_to	ncro	omit
+NCRO:0004013		biolink:related_to	ncro	omit
+NCRO:0004015		biolink:related_to	ncro	omit
+OBI:0001950	has performer	biolink:related_to	ngbo
+STATO:0000102		biolink:related_to	ngbo	psdo	stato
+http://www.ebi.ac.uk/swo/SWO_0004002		biolink:related_to	ngbo
+http://www.obofoundry.org/ro/ro.owl#derives_from		biolink:related_to	ngbo
+OAE:0000025		biolink:related_to	oae
+OAE:0001735		biolink:related_to	oae	ovae
+OAE:0001788		biolink:related_to	oae	opmi	ovae
+OAE:0002081		biolink:related_to	oae	opmi	ovae
+OAE:0002615		biolink:related_to	oae
+OBO:uberon/core#existence_starts_and_ends_during		biolink:related_to	oae	ohpi	opmi	ovae
+RO:0002158	shares ancestor with	biolink:related_to	oae
+http://www.obofoundry.org/ro/ro.owl#preceded_by		biolink:related_to	oae
+OBO:OArCS#_gives_rise		biolink:related_to	oarcs
+OBO:pr#has_constituent_monomer		biolink:related_to	oba	pr
+RO:0002334	regulated by	biolink:related_to	oba
+RO:0002348	results in commitment to	biolink:related_to	oba
+RO:0002356	results in specification of	biolink:related_to	oba
+RO:0020202	has numerator	biolink:related_to	oba
+RO:0020203	has denominator	biolink:related_to	oba
+OBCS:0000223		biolink:related_to	obcs
+OBCS:0000227		biolink:related_to	obcs
+OBCS:0000237		biolink:related_to	obcs
+IAO:0020012		biolink:related_to	obib	ontoneo
+OBIB:0000038		biolink:related_to	obib
+OBIB:0000734		biolink:related_to	obib
+OMRSE:00000020		biolink:related_to	obib	omrse	opmi	pdro	slso
+OBO:OCCO_00000009		biolink:related_to	occo
+OBO:OCCO_00000010		biolink:related_to	occo
+BFO:0000080		biolink:related_to	ogsf
+BFO:0000127		biolink:related_to	ogsf
+BFO:0000159		biolink:related_to	ogsf
+BFO:0000161		biolink:related_to	ogsf
+BFO:0000165		biolink:related_to	ogsf
+BFO:0000172		biolink:related_to	ogsf
+BFO:0000186		biolink:related_to	ogsf
+OBO:OGI.owl#hasBearer		biolink:related_to	ogsf
+OBO:OGI.owl#hasBiomoleculeBoundary		biolink:related_to	ogsf
+OBO:OGI.owl#hasComponentPart		biolink:related_to	ogsf
+OBO:OGI.owl#hasContainedInterval		biolink:related_to	ogsf
+OBO:OGI.owl#hasCytogeneticMapLocation		biolink:related_to	ogsf
+OBO:OGI.owl#hasGeneLocus		biolink:related_to	ogsf
+OBO:OGI.owl#hasIntervalRelation		biolink:related_to	ogsf
+OBO:OGI.owl#hasLinkedLoci		biolink:related_to	ogsf
+OBO:OGI.owl#hasMarkerProbe		biolink:related_to	ogsf
+OBO:OGI.owl#hasMarkerRole		biolink:related_to	ogsf
+OBO:OGI.owl#hasOccupiesLocus		biolink:related_to	ogsf
+OBO:OGI.owl#hasPart		biolink:related_to	ogsf
+OBO:OGI.owl#hasPolymorphismQuality		biolink:related_to	ogsf
+OBO:OGI.owl#hasPrimaryDNASequence		biolink:related_to	ogsf
+OBO:OGI.owl#hasPrimaryRNASequence		biolink:related_to	ogsf
+OBO:OGI.owl#hasPrimarySequence		biolink:related_to	ogsf
+OBO:OGI.owl#hasStructure		biolink:related_to	ogsf
+OBO:OGI.owl#isAdjacentBefore		biolink:related_to	ogsf
+OBO:OGI.owl#isCodeFor		biolink:related_to	ogsf
+OBO:OGI.owl#isComponentPartOf		biolink:related_to	ogsf
+OBO:OGI.owl#isContainedIn		biolink:related_to	ogsf
+OBO:OGI.owl#isLocatedBefore		biolink:related_to	ogsf
+OBO:OGI.owl#isOccupiedBy		biolink:related_to	ogsf
+OBO:OGI.owl#isOverlapEndWith		biolink:related_to	ogsf
+OBO:OGI.owl#isOverlapStartWith		biolink:related_to	ogsf
+OBO:OGI.owl#isReverseCompleteOf		biolink:related_to	ogsf
+OBO:OGI.owl#isStructurePartOf		biolink:related_to	ogsf
+OBO:OGI.owl#isTranscribedBy		biolink:related_to	ogsf
+OBO:OGI.owl#isTranscribedTo		biolink:related_to	ogsf
+OBO:OGI.owl#isWrittenBy		biolink:related_to	ogsf
+OBO:bearer_of		biolink:related_to	ogsf	ovae
+OBO:inheres_in		biolink:related_to	ogsf	ontoneo	ovae
+OBO:so_variant_of		biolink:related_to	ogsf
+OGSF:0000013		biolink:related_to	ogsf
+OGSF:0001008		biolink:related_to	ogsf
+OGSF:0001009		biolink:related_to	ogsf
+RO:0002217	obsolete actively participates in	biolink:related_to	ogsf	ontoneo
+FMA:85848		biolink:related_to	ohd
+FMA:85857		biolink:related_to	ohd
+FMA:85868		biolink:related_to	ohd
+FMA:85879		biolink:related_to	ohd
+FMA:85925		biolink:related_to	ohd
+FMA:85995		biolink:related_to	ohd
+FMA:85996		biolink:related_to	ohd
+OHMI:0000059		biolink:related_to	ohmi
+OHMI:0000272		biolink:related_to	ohmi
+OHMI:0000304		biolink:related_to	ohmi
+OHMI:0000347		biolink:related_to	ohmi
+OHMI:0000348		biolink:related_to	ohmi
+OHMI:0000350		biolink:related_to	ohmi
+OHMI:0000354		biolink:related_to	ohmi
+OHMI:0000359		biolink:related_to	ohmi
+OHMI:0000377		biolink:related_to	ohmi
+OHMI:0000423		biolink:related_to	ohmi
+OHMI:0000453		biolink:related_to	ohmi
+OBO:OHPI_0000003		biolink:related_to	ohpi
+OBO:OHPI_0000004		biolink:related_to	ohpi
+OBO:OHPI_0000005		biolink:related_to	ohpi
+OBO:OHPI_0000007		biolink:related_to	ohpi
+OBO:OHPI_0000025		biolink:related_to	ohpi
+OBO:OHPI_0000026		biolink:related_to	ohpi
+OBO:OHPI_0000029		biolink:related_to	ohpi
+OBO:OHPI_0000035		biolink:related_to	ohpi
+OBO:OHPI_0000036		biolink:related_to	ohpi
+OBO:OHPI_0000090		biolink:related_to	ohpi
+OBO:OBO_REL#_part_of		biolink:related_to	omit
+OMIT:0000097		biolink:related_to	omit
+OMIT:0000159		biolink:related_to	omit
+OMIT:0000160		biolink:related_to	omit
+OBO:omp#decreased_in_magnitude_relative_to		biolink:related_to	omp
+OBO:omp#has_cross_section		biolink:related_to	omp
+OBO:omp#has_quality		biolink:related_to	omp
+OBO:omp#increased_in_magnitude_relative_to		biolink:related_to	omp
+OBO:omp#reciprocal_of		biolink:related_to	omp
+OMRSE:00000068		biolink:related_to	omrse	pdro
+OMRSE:00000264		biolink:related_to	omrse
+OBO:COB_0000078		biolink:related_to	ons	vbo
+RO:0002018	has component process	biolink:related_to	ons
+SIO:000001		biolink:related_to	ons
+OBO:ONTOAVIDA_00000004		biolink:related_to	ontoavida
+OBO:ONTOAVIDA_00000134		biolink:related_to	ontoavida
+OBO:ONTOAVIDA_00000182		biolink:related_to	ontoavida
+OBO:pato#reciprocal_of		biolink:related_to	ontoneo	pco	planp	upheno
+ONTONEO:10000010		biolink:related_to	ontoneo
+IAO:0000143	mentioned by	biolink:related_to	oostt
+RO:0002454	has host	biolink:related_to	opl
+RO:0002460	has vector	biolink:related_to	opl
+OAE:0002616		biolink:related_to	opmi
+OBO:OPMI_0000171		biolink:related_to	opmi
+OBO:OPMI_0000301		biolink:related_to	opmi
+OBO:OPMI_0000305		biolink:related_to	opmi
+OBO:OPMI_0000622		biolink:related_to	opmi
+RO:0002508	determines	biolink:related_to	opmi	to
+OBO:unfolds_in		biolink:related_to	ovae
+VO:0000270		biolink:related_to	ovae
+VO:0000531		biolink:related_to	ovae	vo
+http://www.obofoundry.org/ro/ro.owl#has_disposition		biolink:related_to	ovae
+RO:0015003	subcluster of	biolink:related_to	pcl
+RO:0015004	has characterizing marker set	biolink:related_to	pcl
+RO:HOM0000007	in historical homology relationship with	biolink:related_to	pcl
+RO:0002214	has prototype	biolink:related_to	peco	pso
+RO:HOM0000000	in similarity relationship with	biolink:related_to	peco	pso
+RO:0002490	existence overlaps	biolink:related_to	plana	planp
+OBO:pato#correlates_with		biolink:related_to	planp	upheno
+OBO:pato#has_cross_section		biolink:related_to	planp	upheno
+PLANA:0007536		biolink:related_to	planp
+PO:0040001	derives_by_manipulation_from	biolink:related_to	po	to
+OBO:PORO_0000946		biolink:related_to	poro
+OBO:chebi#BFO_0000051		biolink:related_to	poro
+OBO:sponge#echinates		biolink:related_to	poro
+OBO:sponge#lined_by		biolink:related_to	poro
+OIO:hasScope		biolink:related_to	poro
+owl:equivalentClass		biolink:same_as	poro
+owl:versionIRI		owl:versionIRI	poro	scdo
+PPO:0000010	has visible part	biolink:related_to	ppo
+OBO:pr#confers_resistance_to		biolink:related_to	pr
+OBO:pr#non-covalently_bound_to		biolink:related_to	pr
+OBO:PROCO_0000027		biolink:related_to	proco
+RO:0002337	related via localization to	biolink:related_to	proco
+SIO:000132		biolink:related_to	proco
+SIO:000229		biolink:related_to	proco
+SIO:000338		biolink:related_to	proco
+http://purl.allotrope.org/ontologies/property#AFX_0002722		biolink:related_to	proco
+OBO:stato.owl#is_model_for		biolink:related_to	psdo
+OBO:stato.owl#is_modeled_by		biolink:related_to	psdo
+STATO:0000001		biolink:related_to	psdo	stato
+STATO:0000004		biolink:related_to	psdo	stato
+STATO:0000101		biolink:related_to	psdo	stato
+STATO:0000205		biolink:related_to	psdo	stato
+STATO:0000344		biolink:related_to	psdo
+STATO:0000382		biolink:related_to	psdo	stato
+STATO:0000403		biolink:related_to	psdo	stato
+STATO:0000557		biolink:related_to	psdo	stato
+OBO:pw#part_of		biolink:related_to	pw
+OBO:rex#is_reverse_of		biolink:related_to	rex
+OBO:rex#part_of		biolink:related_to	rex
+OBO:rs#part_of		biolink:related_to	rs
+OBO:rxno.obo#has_part		biolink:related_to	rxno
+OBO:rxno.obo#part_of		biolink:related_to	rxno
+RXNO:0000416		biolink:related_to	rxno
+RXNO:0000417		biolink:related_to	rxno
+RXNO:0000423		biolink:related_to	rxno
+RXNO:0000424		biolink:related_to	rxno
+RXNO:0000425		biolink:related_to	rxno
+RXNO:0000469		biolink:related_to	rxno
+IAO:0100001	term replaced by	biolink:related_to	scdo
+OBO:SCDO_0000303		biolink:related_to	scdo
+OBO:SCDO_0000340		biolink:related_to	scdo
+OBO:SCDO_0000469		biolink:related_to	scdo
+OBO:SCDO_0000474		biolink:related_to	scdo
+OBO:SCDO_0000479		biolink:related_to	scdo
+OBO:SCDO_0000663		biolink:related_to	scdo
+OBO:SCDO_0000664		biolink:related_to	scdo
+OBO:SCDO_0001297		biolink:related_to	scdo
+OBO:SCDO_0001364		biolink:related_to	scdo
+OBO:SCDO_1000005		biolink:related_to	scdo
+OBO:SCDO_1000015		biolink:related_to	scdo
+OBO:SCDO_1000018		biolink:related_to	scdo
+OBO:SCDO_1000172		biolink:related_to	scdo
+OBO:SCDO_1000184		biolink:related_to	scdo
+OBO:SCDO_1000190		biolink:related_to	scdo
+OBO:SCDO_1000191		biolink:related_to	scdo
+OBO:SCDO_1000192		biolink:related_to	scdo
+OBO:SCDO_1000193		biolink:related_to	scdo
+OBO:SCDO_1000194		biolink:related_to	scdo
+OBO:SCDO_1000196		biolink:related_to	scdo
+OBO:SCDO_1000199		biolink:related_to	scdo
+OBO:SCDO_1000202		biolink:related_to	scdo
+OBO:SCDO_1000210		biolink:related_to	scdo
+OBO:SCDO_1000217		biolink:related_to	scdo
+OBO:SCDO_1000218		biolink:related_to	scdo
+OBO:SCDO_1000219		biolink:related_to	scdo
+OBO:SCDO_1000220		biolink:related_to	scdo
+OBO:SCDO_1000222		biolink:related_to	scdo
+OBO:SCDO_1000223		biolink:related_to	scdo
+OBO:SCDO_1000525		biolink:related_to	scdo
+OBO:SCDO_1000526		biolink:related_to	scdo
+OBO:SCDO_1000528		biolink:related_to	scdo
+OBO:SCDO_1000771		biolink:related_to	scdo
+OBO:SCDO_1000772		biolink:related_to	scdo
+OBO:SCDO_1000785		biolink:related_to	scdo
+OBO:SCDO_1110663		biolink:related_to	scdo
+RO:0003302	causes or contributes to condition	biolink:related_to	scdo
+RO:0003303	causes condition	biolink:causes	scdo
+dc:LicenseDocument		biolink:related_to	scdo
+dc:isReferencedBy		biolink:related_to	scdo
+rdfs:comment		rdfs:comment	scdo
+rdfs:seeAlso	see also	rdfs:seeAlso	scdo
+BFO:0000060	obsolete preceded by	biolink:related_to	sibo
+OBO:sibo#adjacent_to		biolink:related_to	sibo
+OBO:sibo#associated_with_behavior		biolink:related_to	sibo
+OBO:sibo#derived_from		biolink:related_to	sibo
+OBO:sibo#is_relevant_for		biolink:related_to	sibo
+GENO:0000536		biolink:related_to	slso
+OBO:SDDO_3000007		biolink:related_to	slso
+OBO:SDDO_3000008		biolink:related_to	slso
+OBO:SDDO_3000009		biolink:related_to	slso
+OBO:SDDO_3000013		biolink:related_to	slso
+OBO:SDDO_3000014		biolink:related_to	slso
+OBO:SDDO_3000015		biolink:related_to	slso
+OBO:SDDO_3000017		biolink:related_to	slso
+OBO:SDDO_3000018		biolink:related_to	slso
+OBO:SDDO_3000020		biolink:related_to	slso
+OBO:SDDO_3000021		biolink:related_to	slso
+OBO:SDDO_3000023		biolink:related_to	slso
+OBO:SDDO_3000024		biolink:related_to	slso
+OBO:SDDO_3000026		biolink:related_to	slso
+OBO:SDDO_3000029		biolink:related_to	slso
+OBO:SDDO_3000031		biolink:related_to	slso
+OBO:SDDO_3000034		biolink:related_to	slso
+OBO:SDDO_3000036		biolink:related_to	slso
+OBO:SDDO_3000039		biolink:related_to	slso
+OBO:SDDO_3000042		biolink:related_to	slso
+OBO:SLSO_0000001		biolink:related_to	slso
+OBO:SLSO_0000003		biolink:related_to	slso
+OBO:SLSO_0000007		biolink:related_to	slso
+OBO:SLSO_0000011		biolink:related_to	slso
+OBO:SLSO_0000013		biolink:related_to	slso
+OBO:SLSO_0000015		biolink:related_to	slso
+OBO:SLSO_0000017		biolink:related_to	slso
+http://www.w3.org/2006/vcard/ns#hasMember		biolink:related_to	slso
+OBO:so#contains		biolink:related_to	so
+OBO:so#guided_by		biolink:related_to	so
+OBO:so#non_functional_homolog_of		biolink:related_to	so
+OBO:so#transcribed_from		biolink:related_to	so
+OBO:so#transcribed_to		biolink:related_to	so
+OBO:so#variant_of		biolink:related_to	so
+OBO:TEMP#adjacent_to		biolink:related_to	spd
+OBI:0000314	is_proxy_for	biolink:related_to	stato
+STATO:0000115		biolink:related_to	stato
+STATO:0000259		biolink:related_to	stato
+STATO:0000341		biolink:related_to	stato
+STATO:0000476		biolink:related_to	stato
+http://www.ebi.ac.uk/swo/SWO_0000082		biolink:related_to	swo
+http://www.ebi.ac.uk/swo/SWO_0000086		biolink:related_to	swo
+http://www.ebi.ac.uk/swo/SWO_0000087		biolink:related_to	swo
+http://www.ebi.ac.uk/swo/SWO_0000131		biolink:related_to	swo
+http://www.ebi.ac.uk/swo/SWO_0000132		biolink:related_to	swo
+http://www.ebi.ac.uk/swo/SWO_0000150		biolink:related_to	swo
+http://www.ebi.ac.uk/swo/SWO_0000157		biolink:related_to	swo
+http://www.ebi.ac.uk/swo/SWO_0000740		biolink:related_to	swo
+http://www.ebi.ac.uk/swo/SWO_0000741		biolink:related_to	swo
+http://www.ebi.ac.uk/swo/SWO_0004001		biolink:related_to	swo
+http://www.ebi.ac.uk/swo/data/SWO_3000054		biolink:related_to	swo
+http://www.ebi.ac.uk/swo/maturity/SWO_9000067		biolink:related_to	swo
+http://www.obofoundry.org/ro/ro.owl#has_part		biolink:related_to	swo
+OBO:T4FS_0000554		biolink:related_to	t4fs
+OBO:T4FS_0000555		biolink:related_to	t4fs
+OBO:T4FS_0000556		biolink:related_to	t4fs
+OBO:T4FS_0000558		biolink:related_to	t4fs
+OBO:T4FS_0000559		biolink:related_to	t4fs
+OBO:T4FS_0000560		biolink:related_to	t4fs
+OBO:T4FS_0000562		biolink:related_to	t4fs
+OBO:T4FS_0000563		biolink:related_to	t4fs
+OBO:T4FS_0000581		biolink:related_to	t4fs
+OBO:tads#part_of		biolink:related_to	tads
+OBO:tgma#develops_from		biolink:related_to	tgma
+OBO:tgma#part_of		biolink:related_to	tgma
+OBO:TXPO_0000004		biolink:related_to	txpo
+OBO:TXPO_0000012		biolink:related_to	txpo
+OBO:TXPO_0000043		biolink:related_to	txpo
+OBO:TXPO_0000069		biolink:related_to	txpo
+OBO:TXPO_0000076		biolink:related_to	txpo
+OBO:TXPO_0000178		biolink:related_to	txpo
+OBO:TXPO_0000531		biolink:related_to	txpo
+OBO:TXPO_0000716		biolink:related_to	txpo
+OBO:TXPO_0000756		biolink:related_to	txpo
+OBO:TXPO_0000774		biolink:related_to	txpo
+OBO:TXPO_0000819		biolink:related_to	txpo
+OBO:TXPO_0000826		biolink:related_to	txpo
+OBO:TXPO_0001502		biolink:related_to	txpo
+OBO:TXPO_0001518		biolink:related_to	txpo
+OBO:TXPO_0001733		biolink:related_to	txpo
+OBO:TXPO_0001868		biolink:related_to	txpo
+OBO:TXPO_0001873		biolink:related_to	txpo
+OBO:TXPO_0001896		biolink:related_to	txpo
+OBO:TXPO_0002260		biolink:related_to	txpo
+OBO:TXPO_0002524		biolink:related_to	txpo
+OBO:TXPO_0002525		biolink:related_to	txpo
+OBO:TXPO_0003360		biolink:related_to	txpo
+OBO:TXPO_0003500		biolink:related_to	txpo
+OBO:TXPO_0003585		biolink:related_to	txpo
+RO:0002599	capable of inhibiting or preventing pathological process	biolink:related_to	txpo
+BSPO:0015009	immediately anterior to	biolink:related_to	uberon
+BSPO:0015012	immediately posterior to	biolink:related_to	uberon
+BSPO:0015202	aboral to	biolink:related_to	uberon
+OBO:uberon/core#anastomoses_with		biolink:related_to	uberon
+RO:0002352	input of	biolink:related_to	uberon
+RO:0020101	vessel supplies blood to	biolink:related_to	uberon
+RO:0020102	vessel drains blood from	biolink:related_to	uberon
+OBO:upa#has_alternate_enzymatic_reaction		biolink:related_to	upa
+OBO:pato#has_relative_magnitude		biolink:related_to	upheno
+OBO:pato#towards		biolink:related_to	upheno
+OBO:uberon/core#in_central_side_of		biolink:located_in	upheno
+OBO:xao#end_stage		biolink:related_to	upheno	xao	xpo
+OBO:xao#preceded_by		biolink:related_to	upheno	xao	xpo
+OBO:xao#start_stage		biolink:related_to	upheno	xao	xpo
+RO:0002000	2D boundary of	biolink:related_to	upheno
+RO:0002006	has synaptic terminal of	biolink:related_to	upheno
+RO:0002110	has postsynaptic terminal in	biolink:related_to	upheno
+RO:0002113	has presynaptic terminal in	biolink:related_to	upheno
+OBO:vario#part_of		biolink:related_to	vario
+owl:topObjectProperty		biolink:related_to	vario
+OBO:VBO_0300019		biolink:related_to	vbo
+VO:0000462		biolink:related_to	vo
+VO:0000525		biolink:related_to	vo
+VO:0000527		biolink:related_to	vo
+VO:0000799		biolink:related_to	vo
+VO:0000894		biolink:related_to	vo
+VO:0001011		biolink:related_to	vo
+VO:0001039		biolink:related_to	vo
+VO:0003127		biolink:related_to	vo
+VO:0005312		biolink:related_to	vo
+VO:0005377		biolink:related_to	vo
+VO:0005561		biolink:related_to	vo
+VO:0005562		biolink:related_to	vo
+VO:0015007		biolink:related_to	vo
+RO:0002476	child nucleus of	biolink:related_to	wbbt
+RO:0002477	child nucleus of in hermaphrodite	biolink:related_to	wbbt
+RO:0002478	child nucleus of in male	biolink:related_to	wbbt
+OBO:xlmod#has_fluorophore		biolink:related_to	xlmod
+OBO:xlmod#has_handle		biolink:related_to	xlmod
+OBO:xlmod#has_neutral_loss_reporter		biolink:related_to	xlmod
+OBO:xlmod#has_property		biolink:related_to	xlmod
+OBO:xlmod#has_reactive_group		biolink:related_to	xlmod
+OBO:xlmod#is_activatable		biolink:related_to	xlmod
+OBO:xlmod#is_analog_of		biolink:related_to	xlmod
+OBO:xlmod#is_cleavable		biolink:related_to	xlmod
+OBO:xlmod#is_labelled		biolink:related_to	xlmod
+OBO:xlmod#is_partially_reacted		biolink:related_to	xlmod
+OBO:xlmod#is_reactive_with		biolink:related_to	xlmod
+OBO:xlmod#is_side_product_of		biolink:related_to	xlmod
+OBO:xlmod#part_of		biolink:related_to	xlmod

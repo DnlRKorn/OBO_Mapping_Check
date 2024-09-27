@@ -38,17 +38,27 @@ for mapping in mappings:
 
 adapater = get_adapter("ubergraph:")
 #print(adapater.label("BFO:0000050"))
+with open("mapping_unconflicted.tsv",'w') as unconflict_f:
+    unconflict_writer = csv.writer(unconflict_f,delimiter='\t')    
+    unconflict_writer.writerow(['relation','relation_label_(from_Ubergraph)','biolink_predicate','obo_dataset_mapping_found_in'])
+    for relation in relmap:
+        if(len(relmap[relation])==1):
+            relation_label = adapater.label(relation)
+            sortedMapTuples = [(pred,sorted(list(s))) for (pred,s) in relmap[relation].items()]
+#            print(x,sorted(sortedMapTuples))
+            for (i, (predicate,datasets)) in enumerate(sorted(sortedMapTuples)):
+                if(i==0):unconflict_writer.writerow([relation,relation_label,predicate,*datasets])
 
-with open("mapping_conflicts.tsv",'w') as f:
-    writer = csv.writer(f,delimiter='\t')    
-    writer.writerow(['relation','relation_label_(from_Ubergraph)','biolink_predicate','obo_dataset_mapping_found_in'])
+with open("mapping_conflicts.tsv",'w') as conflict_f:
+    conflict_writer = csv.writer(conflict_f,delimiter='\t')    
+    conflict_writer.writerow(['relation','relation_label_(from_Ubergraph)','biolink_predicate','obo_dataset_mapping_found_in'])
     for relation in relmap:
         if(len(relmap[relation])>1):
             relation_label = adapater.label(relation)
             sortedMapTuples = [(pred,sorted(list(s))) for (pred,s) in relmap[relation].items()]
 #            print(x,sorted(sortedMapTuples))
             for (i, (predicate,datasets)) in enumerate(sorted(sortedMapTuples)):
-                if(i==0):writer.writerow([relation,relation_label,predicate,*datasets])
-                else:writer.writerow([None,None,predicate,*datasets])
+                if(i==0):conflict_writer.writerow([relation,relation_label,predicate,*datasets])
+                else:conflict_writer.writerow([None,None,predicate,*datasets])
     #    for y in relmap[x]:
     #        print(x,y,relmap[x][y])
