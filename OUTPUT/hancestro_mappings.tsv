@@ -1,0 +1,11 @@
+relation	predicate	count
+OBO:AfPO_0000447	biolink:related_to	704
+OBO:HANCESTRO_0301	biolink:related_to	3
+OBO:HANCESTRO_0308	biolink:related_to	689
+OBO:HANCESTRO_0330	biolink:related_to	226
+RO:0000086	biolink:related_to	1
+RO:0002151	biolink:related_to	126
+inverseOf	biolink:inverseOf	6
+rdfs:subClassOf	biolink:subclass_of	1905
+subPropertyOf	biolink:subPropertyOf	10
+type	biolink:type	19

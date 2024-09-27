@@ -1,0 +1,3 @@
+relation	predicate	count
+OBO:has_prefix	biolink:related_to	81
+rdfs:subClassOf	biolink:subclass_of	585

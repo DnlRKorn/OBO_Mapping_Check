@@ -1,0 +1,4 @@
+relation	predicate	count
+BFO:0000050	biolink:related_to	132
+RO:0002202	biolink:related_to	86
+rdfs:subClassOf	biolink:subclass_of	130

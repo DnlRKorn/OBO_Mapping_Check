@@ -1,0 +1,14 @@
+relation	predicate	count
+https://bio.scai.fraunhofer.de/ontology/0000401	biolink:related_to	5
+https://bio.scai.fraunhofer.de/ontology/0000403	biolink:related_to	12
+https://bio.scai.fraunhofer.de/ontology/0000405	biolink:related_to	2
+https://bio.scai.fraunhofer.de/ontology/0000409	biolink:related_to	2
+https://bio.scai.fraunhofer.de/ontology/0000410	biolink:related_to	2
+https://bio.scai.fraunhofer.de/ontology/0000412	biolink:related_to	2
+https://bio.scai.fraunhofer.de/ontology/0000414	biolink:related_to	3
+https://bio.scai.fraunhofer.de/ontology/0000416	biolink:related_to	4
+https://bio.scai.fraunhofer.de/ontology/0000418	biolink:related_to	2
+https://bio.scai.fraunhofer.de/ontology/0000420	biolink:related_to	2
+https://bio.scai.fraunhofer.de/ontology/ac113c60_c3d8_48f2_871c_cc34524d844f	biolink:related_to	6
+https://bio.scai.fraunhofer.de/ontology/cac13978_e4e8_4240_907f_80ddfd3af981	biolink:related_to	16
+rdfs:subClassOf	biolink:subclass_of	1966

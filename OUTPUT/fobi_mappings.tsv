@@ -1,0 +1,5 @@
+relation	predicate	count
+OBO:FOBI_00422	biolink:related_to	5194
+OBO:FOBI_00424	biolink:related_to	280
+inverseOf	biolink:inverseOf	2
+rdfs:subClassOf	biolink:subclass_of	1332

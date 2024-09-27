@@ -1,0 +1,7 @@
+relation	predicate	count
+BFO:0000050	biolink:related_to	1211
+OBO:xao#end_stage	biolink:related_to	1638
+OBO:xao#preceded_by	biolink:related_to	87
+OBO:xao#start_stage	biolink:related_to	1637
+RO:0002202	biolink:related_to	673
+rdfs:subClassOf	biolink:subclass_of	1805

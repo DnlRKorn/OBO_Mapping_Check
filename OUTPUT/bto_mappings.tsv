@@ -1,0 +1,11 @@
+relation	predicate	count
+BFO:0000050	biolink:part_of	1824
+BFO:0000054	biolink:related_to	8
+RO:0000053	biolink:related_to	4
+RO:0001018	biolink:part_of	10
+RO:0002202	biolink:develops_from	1165
+RO:0002566	biolink:related_to	4
+RO:0003001	biolink:produced_by	7
+RO:0004025	biolink:disrupts	17
+RO:0004030	biolink:related_to	8
+rdfs:subClassOf	biolink:subclass_of	4599

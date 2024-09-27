@@ -1,0 +1,10 @@
+relation	predicate	count
+BFO:0000050	biolink:related_to	4124
+RO:0002202	biolink:related_to	34
+RO:0002476	biolink:related_to	1868
+RO:0002477	biolink:related_to	380
+RO:0002478	biolink:related_to	518
+inverseOf	biolink:inverseOf	25
+rdfs:subClassOf	biolink:subclass_of	10980
+subPropertyOf	biolink:subPropertyOf	138
+type	biolink:type	2

@@ -1,0 +1,3 @@
+relation	predicate	count
+OBO:tads#part_of	biolink:related_to	663
+rdfs:subClassOf	biolink:subclass_of	285

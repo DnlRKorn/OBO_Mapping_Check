@@ -1,0 +1,4 @@
+relation	predicate	count
+OBO:vario#part_of	biolink:related_to	11
+owl:topObjectProperty	biolink:related_to	1
+rdfs:subClassOf	biolink:subclass_of	506

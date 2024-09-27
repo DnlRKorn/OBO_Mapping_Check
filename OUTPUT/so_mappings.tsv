@@ -1,0 +1,17 @@
+relation	predicate	count
+OBO:so#adjacent_to	biolink:related_to	6
+OBO:so#contains	biolink:related_to	3
+OBO:so#derives_from	biolink:related_to	65
+OBO:so#guided_by	biolink:related_to	1
+OBO:so#has_origin	biolink:related_to	29
+OBO:so#has_part	biolink:related_to	152
+OBO:so#has_quality	biolink:related_to	165
+OBO:so#member_of	biolink:related_to	3
+OBO:so#non_functional_homolog_of	biolink:related_to	4
+OBO:so#overlaps	biolink:related_to	4
+OBO:so#part_of	biolink:related_to	185
+OBO:so#transcribed_from	biolink:related_to	1
+OBO:so#transcribed_to	biolink:related_to	7
+OBO:so#variant_of	biolink:related_to	3
+rdfs:subClassOf	biolink:subclass_of	2520
+subPropertyOf	biolink:subPropertyOf	9

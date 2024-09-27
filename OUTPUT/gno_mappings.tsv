@@ -1,0 +1,3 @@
+relation	predicate	count
+rdfs:subClassOf	biolink:subclass_of	251090
+type	biolink:type	5

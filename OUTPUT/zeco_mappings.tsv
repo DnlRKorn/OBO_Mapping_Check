@@ -1,0 +1,3 @@
+relation	predicate	count
+inverseOf	biolink:inverseOf	1
+rdfs:subClassOf	biolink:subclass_of	171

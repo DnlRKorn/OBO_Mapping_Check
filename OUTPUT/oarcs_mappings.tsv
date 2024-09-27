@@ -1,0 +1,6 @@
+relation	predicate	count
+BFO:0000050	biolink:part_of	207
+OBO:OArCS#_gives_rise	biolink:related_to	2
+RO:0002377	biolink:related_to	49
+rdfs:subClassOf	biolink:subclass_of	306
+type	biolink:type	323

@@ -1,0 +1,13 @@
+relation	predicate	count
+OBO:RO#_confers_resistance_to	biolink:related_to	727
+OBO:RO#_confers_resistance_to_drug	biolink:related_to	3386
+OBO:RO#_derives_from	biolink:related_to	93
+OBO:RO#_has_part	biolink:related_to	57
+OBO:RO#_part_of	biolink:related_to	293
+OBO:RO#_participates_in	biolink:related_to	46
+OBO:RO#_targeted_by	biolink:related_to	35
+OBO:RO#_targeted_by_drug	biolink:related_to	257
+RO:0002312	biolink:related_to	29
+RO:0012006	biolink:related_to	137
+RO:regulates	biolink:related_to	91
+rdfs:subClassOf	biolink:subclass_of	6745

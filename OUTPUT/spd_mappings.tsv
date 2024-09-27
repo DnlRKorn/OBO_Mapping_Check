@@ -1,0 +1,4 @@
+relation	predicate	count
+OBO:TEMP#adjacent_to	biolink:related_to	2
+OBO:TEMP#part_of	biolink:related_to	582
+rdfs:subClassOf	biolink:subclass_of	617

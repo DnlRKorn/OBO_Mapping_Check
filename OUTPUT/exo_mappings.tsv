@@ -1,0 +1,10 @@
+relation	predicate	count
+BFO:0000050	biolink:part_of	28
+BFO:0000051	biolink:has_part	3
+OBO:exo#characterizes	biolink:related_to	1
+OBO:exo#interacts_with_an_exposure_receptor_via	biolink:related_to	2
+OBO:exo#interacts_with_an_exposure_stressor_via	biolink:related_to	1
+OBO:exo#is_associated_with	biolink:related_to	1
+OBO:exo#targeted_to	biolink:related_to	3
+RO:0002434	biolink:interacts_with	2
+rdfs:subClassOf	biolink:subclass_of	133

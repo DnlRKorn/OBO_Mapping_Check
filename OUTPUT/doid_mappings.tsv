@@ -1,0 +1,17 @@
+relation	predicate	count
+IDO:0000664	biolink:related_to	3485
+OBO:so#has_origin	biolink:related_to	5
+RO:0001000	biolink:related_to	440
+RO:0001022	biolink:related_to	123
+RO:0002200	biolink:related_to	199
+RO:0002220	biolink:related_to	2
+RO:0002451	biolink:related_to	175
+RO:0002452	biolink:related_to	2255
+RO:0002488	biolink:related_to	287
+RO:0003304	biolink:related_to	190
+RO:0004019	biolink:related_to	468
+RO:0004026	biolink:related_to	1408
+RO:0004029	biolink:related_to	121
+RO:0007001	biolink:related_to	18
+rdfs:subClassOf	biolink:subclass_of	22365
+subPropertyOf	biolink:subPropertyOf	45

@@ -1,0 +1,4 @@
+relation	predicate	count
+OBO:tgma#develops_from	biolink:related_to	2
+OBO:tgma#part_of	biolink:related_to	1950
+rdfs:subClassOf	biolink:subclass_of	781

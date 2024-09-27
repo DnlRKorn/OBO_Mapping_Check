@@ -1,0 +1,5 @@
+relation	predicate	count
+BFO:0000050	biolink:part_of	23
+RO:0002160	biolink:in_taxon	1
+RO:0002202	biolink:develops_from	4
+rdfs:subClassOf	biolink:subclass_of	127

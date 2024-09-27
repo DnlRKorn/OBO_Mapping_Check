@@ -1,0 +1,13 @@
+relation	predicate	count
+OBO:TEMP#agent_in	biolink:related_to	37
+OBO:TEMP#bearer_of	biolink:related_to	21
+OBO:TEMP#happens_during	biolink:related_to	39
+OBO:TEMP#has_role	biolink:related_to	243
+OBO:TEMP#part_of	biolink:related_to	375
+OBO:TEMP#participates_in	biolink:related_to	127
+OBO:TEMP#preceded_by	biolink:related_to	32
+OBO:TEMP#precedes	biolink:related_to	2
+OBO:TEMP#realized_by	biolink:related_to	5
+OBO_REL:0000034	biolink:related_to	13
+inverseOf	biolink:inverseOf	4
+rdfs:subClassOf	biolink:subclass_of	2662

@@ -1,0 +1,12 @@
+relation	predicate	count
+BFO:0000051	biolink:related_to	4044
+OBO:chebi#has_functional_parent	biolink:related_to	19766
+OBO:chebi#has_parent_hydride	biolink:related_to	1806
+OBO:chebi#is_conjugate_acid_of	biolink:related_to	8547
+OBO:chebi#is_conjugate_base_of	biolink:related_to	8547
+OBO:chebi#is_enantiomer_of	biolink:related_to	2764
+OBO:chebi#is_substituent_group_from	biolink:related_to	1286
+OBO:chebi#is_tautomer_of	biolink:related_to	1906
+RO:0000087	biolink:related_to	44125
+inverseOf	biolink:inverseOf	1
+rdfs:subClassOf	biolink:subclass_of	279063

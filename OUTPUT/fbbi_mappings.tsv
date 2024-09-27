@@ -1,0 +1,5 @@
+relation	predicate	count
+FBbi:00000346	biolink:related_to	53
+inverseOf	biolink:inverseOf	21
+rdfs:subClassOf	biolink:subclass_of	653
+subPropertyOf	biolink:subPropertyOf	116

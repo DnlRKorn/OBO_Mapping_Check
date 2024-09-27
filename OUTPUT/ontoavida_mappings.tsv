@@ -1,0 +1,7 @@
+relation	predicate	count
+OBO:ONTOAVIDA_00000004	biolink:related_to	2
+OBO:ONTOAVIDA_00000134	biolink:related_to	2
+OBO:ONTOAVIDA_00000182	biolink:related_to	2
+inverseOf	biolink:inverseOf	6
+rdfs:subClassOf	biolink:subclass_of	674
+subPropertyOf	biolink:subPropertyOf	21

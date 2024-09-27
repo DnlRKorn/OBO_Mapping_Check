@@ -1,0 +1,12 @@
+relation	predicate	count
+http://www.biomodels.net/kisao/KISAO#KISAO_0000245	biolink:related_to	266
+http://www.biomodels.net/kisao/KISAO#KISAO_0000246	biolink:related_to	8
+http://www.biomodels.net/kisao/KISAO#KISAO_0000250	biolink:related_to	11
+http://www.biomodels.net/kisao/KISAO#KISAO_0000259	biolink:related_to	44
+http://www.biomodels.net/kisao/KISAO#KISAO_0000359	biolink:related_to	28
+http://www.biomodels.net/kisao/KISAO#KISAO_0000360	biolink:related_to	29
+http://www.biomodels.net/kisao/KISAO#KISAO_0000361	biolink:related_to	14
+http://www.biomodels.net/kisao/KISAO#KISAO_0000399	biolink:related_to	1
+inverseOf	biolink:inverseOf	3
+rdfs:subClassOf	biolink:subclass_of	519
+subPropertyOf	biolink:subPropertyOf	2

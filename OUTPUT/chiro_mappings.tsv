@@ -1,0 +1,17 @@
+relation	predicate	count
+BFO:0000050	biolink:part_of	122
+BFO:0000051	biolink:has_part	14
+OBO:chebi#has_part	biolink:related_to	4
+OBO:chiro#activator_of	biolink:related_to	9
+OBO:chiro#agonist_of	biolink:related_to	29
+OBO:chiro#antagonist_of	biolink:related_to	25
+OBO:chiro#destabilizer_of	biolink:related_to	2
+OBO:chiro#inducer_of	biolink:related_to	2
+OBO:chiro#inhibitor_of	biolink:related_to	142
+OBO:chiro#modulator_of	biolink:related_to	9
+OBO:chiro#sensitizer_of	biolink:related_to	1
+OBO:chiro#stabilizier_of	biolink:related_to	1
+RO:0002211	biolink:regulates	215
+RO:0002213	biolink:positively_regulates	183
+rdfs:subClassOf	biolink:subclass_of	16474
+subPropertyOf	biolink:subPropertyOf	1

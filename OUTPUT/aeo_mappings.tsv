@@ -1,0 +1,4 @@
+relation	predicate	count
+OBO:aeo#has_part	biolink:related_to	79
+OBO:aeo#part_of	biolink:related_to	22
+rdfs:subClassOf	biolink:subclass_of	265

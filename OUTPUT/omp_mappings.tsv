@@ -1,0 +1,14 @@
+relation	predicate	count
+BFO:0000050	biolink:related_to	3
+BFO:0000051	biolink:related_to	1
+OBO:omp#decreased_in_magnitude_relative_to	biolink:related_to	16
+OBO:omp#has_cross_section	biolink:related_to	2
+OBO:omp#has_quality	biolink:related_to	62
+OBO:omp#increased_in_magnitude_relative_to	biolink:related_to	15
+OBO:omp#reciprocal_of	biolink:related_to	1
+RO:0000052	biolink:related_to	29
+RO:0002211	biolink:related_to	4
+RO:0002212	biolink:related_to	4
+RO:0002503	biolink:related_to	2
+rdfs:subClassOf	biolink:subclass_of	2754
+subPropertyOf	biolink:subPropertyOf	8

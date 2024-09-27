@@ -1,0 +1,4 @@
+relation	predicate	count
+OBO:cmo#has_component	biolink:related_to	2
+OBO:cmo#part_of	biolink:related_to	58
+rdfs:subClassOf	biolink:subclass_of	4715

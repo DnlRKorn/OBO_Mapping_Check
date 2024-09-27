@@ -1,0 +1,14 @@
+relation	predicate	count
+BFO:0000050	biolink:related_to	162
+OBO:ms#has_column	biolink:related_to	24
+OBO:ms#has_domain	biolink:related_to	47
+OBO:ms#has_metric_category	biolink:related_to	279
+OBO:ms#has_optional_column	biolink:related_to	42
+OBO:ms#has_order	biolink:related_to	59
+OBO:ms#has_regexp	biolink:related_to	72
+OBO:ms#has_relation	biolink:related_to	1
+OBO:ms#has_structured_representation_in_format	biolink:related_to	1
+OBO:ms#has_units	biolink:related_to	283
+OBO:ms#has_value_concept	biolink:related_to	62
+OBO:ms#has_value_type	biolink:related_to	1319
+rdfs:subClassOf	biolink:subclass_of	3587

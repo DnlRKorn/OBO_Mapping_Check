@@ -1,0 +1,15 @@
+relation	predicate	count
+OBO:xlmod#has_fluorophore	biolink:related_to	17
+OBO:xlmod#has_handle	biolink:related_to	83
+OBO:xlmod#has_neutral_loss_reporter	biolink:related_to	4
+OBO:xlmod#has_property	biolink:related_to	163
+OBO:xlmod#has_reactive_group	biolink:related_to	589
+OBO:xlmod#is_activatable	biolink:related_to	39
+OBO:xlmod#is_analog_of	biolink:related_to	16
+OBO:xlmod#is_cleavable	biolink:related_to	114
+OBO:xlmod#is_labelled	biolink:related_to	89
+OBO:xlmod#is_partially_reacted	biolink:related_to	102
+OBO:xlmod#is_reactive_with	biolink:related_to	489
+OBO:xlmod#is_side_product_of	biolink:related_to	103
+OBO:xlmod#part_of	biolink:related_to	6
+rdfs:subClassOf	biolink:subclass_of	1155

@@ -1,0 +1,8 @@
+relation	predicate	count
+OBO:has_confidence_element	biolink:related_to	1
+OBO:has_confidence_level	biolink:related_to	1
+OBO:has_evidence_concordance	biolink:related_to	1
+OBO:has_evidence_type_concordance	biolink:related_to	2
+OBO:provides_greater_confidence_than	biolink:related_to	2
+rdfs:subClassOf	biolink:subclass_of	42
+subPropertyOf	biolink:subPropertyOf	3

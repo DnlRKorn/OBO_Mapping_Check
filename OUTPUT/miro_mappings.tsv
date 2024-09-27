@@ -1,0 +1,6 @@
+relation	predicate	count
+OBO:OBO_REL#_has_quality	biolink:related_to	10
+OBO:OBO_REL#_has_role	biolink:related_to	67
+OBO_REL:influences	biolink:related_to	14
+OBO_REL:realizes	biolink:related_to	2
+rdfs:subClassOf	biolink:subclass_of	4361

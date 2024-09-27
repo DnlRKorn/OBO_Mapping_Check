@@ -1,0 +1,4 @@
+relation	predicate	count
+OBO:rex#is_reverse_of	biolink:related_to	22
+OBO:rex#part_of	biolink:related_to	62
+rdfs:subClassOf	biolink:subclass_of	646

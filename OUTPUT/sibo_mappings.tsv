@@ -1,0 +1,8 @@
+relation	predicate	count
+BFO:0000050	biolink:part_of	78
+BFO:0000060	biolink:related_to	30
+OBO:sibo#adjacent_to	biolink:related_to	2
+OBO:sibo#associated_with_behavior	biolink:related_to	114
+OBO:sibo#derived_from	biolink:related_to	93
+OBO:sibo#is_relevant_for	biolink:related_to	344
+rdfs:subClassOf	biolink:subclass_of	440

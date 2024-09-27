@@ -1,0 +1,6 @@
+relation	predicate	count
+OBO:mod#contains	biolink:related_to	10
+OBO:mod#derives_from	biolink:related_to	118
+OBO:mod#has_functional_parent	biolink:related_to	27
+OBO:mod#part_of	biolink:related_to	1
+rdfs:subClassOf	biolink:subclass_of	3569

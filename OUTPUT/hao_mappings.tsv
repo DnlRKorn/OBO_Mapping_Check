@@ -1,0 +1,7 @@
+relation	predicate	count
+BFO:0000050	biolink:part_of	1828
+OBO:HAO#_attached_to	biolink:related_to	544
+OBO_REL:0000004	biolink:related_to	1
+RO:0002220	biolink:coexists_with	3
+rdfs:subClassOf	biolink:subclass_of	2472
+type	biolink:type	2764

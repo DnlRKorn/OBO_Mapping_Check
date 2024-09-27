@@ -1,0 +1,7 @@
+relation	predicate	count
+BFO:0000050	biolink:part_of	372
+RO:0002087	biolink:preceded_by	51
+RO:0002202	biolink:develops_from	323
+RO:0002488	biolink:temporally_related_to	328
+RO:0002492	biolink:temporally_related_to	299
+rdfs:subClassOf	biolink:subclass_of	347

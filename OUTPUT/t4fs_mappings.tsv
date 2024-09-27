@@ -1,0 +1,15 @@
+relation	predicate	count
+IAO:0000136	biolink:related_to	1
+OBO:T4FS_0000554	biolink:related_to	1
+OBO:T4FS_0000555	biolink:related_to	1
+OBO:T4FS_0000556	biolink:related_to	2
+OBO:T4FS_0000558	biolink:related_to	4
+OBO:T4FS_0000559	biolink:related_to	2
+OBO:T4FS_0000560	biolink:related_to	1
+OBO:T4FS_0000562	biolink:related_to	1
+OBO:T4FS_0000563	biolink:related_to	33
+OBO:T4FS_0000581	biolink:related_to	45
+inverseOf	biolink:inverseOf	6
+rdfs:subClassOf	biolink:subclass_of	563
+subPropertyOf	biolink:subPropertyOf	8
+type	biolink:type	18

@@ -1,0 +1,9 @@
+relation	predicate	count
+OBO:fma#attaches_to	biolink:related_to	191
+OBO:fma#bounds	biolink:related_to	660
+OBO:fma#branch_of	biolink:related_to	6746
+OBO:fma#constitutional_part_of	biolink:related_to	12124
+OBO:fma#regional_part_of	biolink:related_to	17764
+OBO:fma#systemic_part_of	biolink:related_to	2316
+rdfs:subClassOf	biolink:subclass_of	78974
+subPropertyOf	biolink:subPropertyOf	3

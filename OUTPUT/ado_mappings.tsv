@@ -1,0 +1,14 @@
+relation	predicate	count
+OBO:ADO_0000002	biolink:related_to	3
+OBO:ADO_0000003	biolink:related_to	13
+OBO:ADO_0000004	biolink:related_to	11
+OBO:ADO_0000005	biolink:related_to	1
+OBO:ADO_0000006	biolink:related_to	37
+OBO:ADO_0000007	biolink:related_to	9
+OBO:ADO_0000008	biolink:related_to	1
+OBO:ADO_0000009	biolink:related_to	1
+OBO:ADO_0000013	biolink:related_to	30
+RO:0002213	biolink:related_to	1
+RO:0002436	biolink:related_to	6
+rdfs:subClassOf	biolink:subclass_of	2340
+subPropertyOf	biolink:subPropertyOf	1

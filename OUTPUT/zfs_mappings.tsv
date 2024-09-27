@@ -1,0 +1,5 @@
+relation	predicate	count
+BFO:0000050	biolink:part_of	42
+RO:0002087	biolink:preceded_by	50
+rdfs:subClassOf	biolink:subclass_of	53
+subPropertyOf	biolink:subPropertyOf	1

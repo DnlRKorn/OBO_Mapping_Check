@@ -1,0 +1,9 @@
+relation	predicate	count
+BFO:0000051	biolink:related_to	5
+IAO:0000136	biolink:related_to	1
+OBO:COB_0000078	biolink:related_to	1
+OBO:VBO_0300019	biolink:related_to	140
+inverseOf	biolink:inverseOf	27
+rdfs:subClassOf	biolink:subclass_of	36909
+subPropertyOf	biolink:subPropertyOf	124
+type	biolink:type	19

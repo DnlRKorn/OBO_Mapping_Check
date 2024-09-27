@@ -1,0 +1,13 @@
+relation	predicate	count
+BFO:0000051	biolink:has_part	1
+BFO:0000054	biolink:related_to	1
+OBO:INO_0000154	biolink:has_attribute	1
+RO:0000057	biolink:has_participant	5
+RO:0000087	biolink:has_attribute	9
+RO:0002211	biolink:regulates	5
+RO:0002212	biolink:negatively_regulates	4
+RO:0002213	biolink:positively_regulates	4
+RO:0002233	biolink:has_input	1
+RO:0002411	biolink:precedes	1
+rdfs:subClassOf	biolink:subclass_of	338
+subPropertyOf	biolink:subPropertyOf	62

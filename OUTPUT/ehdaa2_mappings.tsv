@@ -1,0 +1,11 @@
+relation	predicate	count
+BFO:0000050	biolink:part_of	2986
+BFO:0000051	biolink:has_part	81
+BFO:0000068	biolink:related_to	2368
+BFO:0000069	biolink:related_to	2268
+RO:0001025	biolink:located_in	166
+RO:0002202	biolink:develops_from	2125
+RO:0002221	biolink:coexists_with	1
+RO:0002226	biolink:develops_from	33
+RO:0002371	biolink:related_to	2
+rdfs:subClassOf	biolink:subclass_of	3083

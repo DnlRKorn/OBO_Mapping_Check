@@ -1,0 +1,7 @@
+relation	predicate	count
+OBI:0000312	biolink:related_to	3
+RO:0000087	biolink:has_attribute	1
+RO:0002223	biolink:temporally_related_to	2
+rdfs:subClassOf	biolink:subclass_of	163
+subPropertyOf	biolink:subPropertyOf	5
+type	biolink:type	1

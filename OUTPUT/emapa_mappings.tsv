@@ -1,0 +1,6 @@
+relation	predicate	count
+OBO:emapa#develops_from	biolink:related_to	11
+OBO:emapa#ends_at	biolink:related_to	3938
+OBO:emapa#part_of	biolink:related_to	7040
+OBO:emapa#starts_at	biolink:related_to	5511
+rdfs:subClassOf	biolink:subclass_of	5384

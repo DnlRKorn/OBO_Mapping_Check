@@ -1,0 +1,4 @@
+relation	predicate	count
+http://identifiers.org/mamo#hasFeature	biolink:related_to	38
+http://identifiers.org/mamo#isUsedToModel	biolink:related_to	10
+rdfs:subClassOf	biolink:subclass_of	104

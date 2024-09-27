@@ -1,0 +1,4 @@
+relation	predicate	count
+OBO:fix#BY	biolink:related_to	29
+OBO:fix#part_of	biolink:related_to	51
+rdfs:subClassOf	biolink:subclass_of	1602

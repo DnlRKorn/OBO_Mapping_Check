@@ -1,0 +1,8 @@
+relation	predicate	count
+BFO:0000050	biolink:related_to	2530
+OBO:upa#has_alternate_enzymatic_reaction	biolink:related_to	46
+RO:0002233	biolink:related_to	4720
+RO:0002234	biolink:related_to	5003
+inverseOf	biolink:inverseOf	21
+rdfs:subClassOf	biolink:subclass_of	6453
+subPropertyOf	biolink:subPropertyOf	108

@@ -1,0 +1,8 @@
+relation	predicate	count
+BFO:0000051	biolink:has_part	2
+BFO:0000062	biolink:preceded_by	1
+OBI:0000293	biolink:has_participant	1
+OBO:OPMI_0000366	biolink:related_to	1
+inverseOf	biolink:inverseOf	1
+rdfs:subClassOf	biolink:subclass_of	304
+type	biolink:type	6
