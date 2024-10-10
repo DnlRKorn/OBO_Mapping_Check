@@ -1,0 +1,264 @@
+--BCO--
+---VALID:BCO|2---
+---OBSOLETE:BCO|0---
+---MISSING:BCO|0---
+--BFO--
+---VALID:BFO|0---
+---OBSOLETE:BFO|0---
+---MISSING:BFO|55---
+BFO:0000050	None	agro,aism,amphx,apollo_sv,bto,caro,ceph,cheminf,chiro,cido,cl,clao,clo,clyh,colao,cteno,ddanat,dideo,dpo,duo,ecao,eco,ecocore,ecto,ehdaa2,envo,ero,eupath,exo,fao,fbbt,fbdv,flopo,fovt,fypo,gallont,gaz,gecko,genepio,geno,go,hao,hp,hsapdv,hso,htn,iao,iceo,labo,lepao,maxo,mcro,mfmo,micro,mmusdv,mondo,mp,ms,nbo,ngbo,oae,oarcs,oba,obcs,obi,obib,ogsf,ohd,ohpi,omp,omrse,one,ontoneo,oostt,opl,opmi,ovae,pato,pcl,pco,pdro,peco,phipo,plana,planp,po,poro,ppo,pr,proco,psdo,pso,sibo,slso,stato,to,txpo,uberon,upa,upheno,vo,wbbt,wbls,wbphenotype,xao,xco,xpo,zfa,zfs,zp
+BFO:0000051	None	agro,aism,apollo_sv,bco,caro,ceph,chebi,cheminf,chiro,cido,cl,clo,cob,colao,cteno,cto,dideo,dpo,dron,duo,ecao,eco,ecocore,ecto,ehdaa2,envo,ero,eupath,exo,fbbt,fbcv,fbdv,flopo,fovt,fypo,gallont,gaz,genepio,geno,go,hp,hso,htn,iao,iceo,ido,ino,labo,lepao,maxo,mco,mcro,mfmo,micro,mondo,mp,mpio,mro,nbo,ngbo,oae,oba,obcs,obi,obib,ogg,ogsf,ohd,ohmi,ohpi,omit,omp,omrse,one,ons,ontoneo,oostt,opl,opmi,ovae,pato,pcl,pdro,peco,phipo,plana,planp,po,poro,ppo,pr,proco,psdo,pso,slso,stato,swo,to,txpo,uberon,upheno,vbo,vo,wbls,wbphenotype,xpo,zp
+BFO:0000052	None	chmo,mf,mfoem,ogg,ohd,ohpi
+BFO:0000053	None	cido,dron,ohd,opmi,pdro
+BFO:0000054	None	apollo_sv,bco,bto,chmo,cido,cvdo,ecocore,ecto,envo,eupath,fovt,gaz,genepio,htn,ino,mf,mfoem,mfomd,micro,mondo,oba,obcs,obi,obib,ogsf,ohd,ohpi,omrse,ontoneo,opmi,ovae,pdro,proco,psdo,slso,stato,vo
+BFO:0000055	None	agro,bco,cido,clo,cob,eco,eupath,ido,mf,mfoem,mfomd,micro,mondo,mop,obcs,obi,obib,ohd,ohmi,ohpi,omrse,one,ons,ontoneo,opl,opmi,proco,psdo,rxno,stato,vo
+BFO:0000056	None	chmo,ppo
+BFO:0000057	None	chmo,mop,ogsf,ppo,proco,rxno,slso
+BFO:0000058	None	cvdo,ogg,ogsf,ovae
+BFO:0000060	None	sibo
+BFO:0000062	None	aism,cl,clo,cto,ecao,ecocore,envo,flopo,fovt,gaz,genepio,hp,hsapdv,maxo,mmusdv,mondo,mp,nbo,oae,oba,ogsf,ohpi,ontoneo,opmi,ovae,pato,pcl,pdumdv,phipo,po,ppo,psdo,pso,stato,to,uberon,upheno,vo,wbls,wbphenotype,xpo
+BFO:0000063	None	aism,cl,clo,ecao,ecocore,envo,flopo,fovt,gaz,genepio,hp,maxo,mondo,mp,nbo,ncro,oae,oba,ohpi,omit,ontoneo,opmi,ovae,pato,pcl,phipo,po,psdo,stato,to,uberon,upheno,xpo
+BFO:0000066	None	agro,aism,apollo_sv,cido,cl,clo,cvdo,dpo,ecao,ecocore,ecto,envo,fbbt,flopo,fovt,fypo,gaz,go,hp,ido,maxo,mondo,mp,nbo,oae,oba,ohmi,ohpi,omrse,ontoneo,opl,opmi,ovae,pato,pcl,phipo,planp,slso,txpo,uberon,upheno,vo,wbphenotype,xpo,zp
+BFO:0000067	None	agro,aism,apollo_sv,cl,clo,ecao,ecocore,envo,eupath,flopo,fovt,gaz,genepio,hp,maxo,mondo,mp,nbo,oba,omrse,one,pato,pcl,peco,plana,slso,to,txpo,uberon,upheno,xpo
+BFO:0000068	None	chmo,cteno,ehdaa2
+BFO:0000069	None	ehdaa2
+BFO:0000075	None	apollo_sv,geo,oostt
+BFO:0000077	None	mop,rxno
+BFO:0000078	None	mop,rxno
+BFO:0000080	None	ogsf
+BFO:0000082	None	cvdo,ogsf,ontoneo
+BFO:0000083	None	cvdo,iceo,ogg,ogsf,ovae
+BFO:0000085	None	chmo
+BFO:0000086	None	clo,ogsf
+BFO:0000087	None	bco,chmo,ogsf
+BFO:0000107	None	mf,mfoem,mfomd
+BFO:0000108	None	cvdo,ogg,ogsf,ovae
+BFO:0000110	None	chmo,ogsf
+BFO:0000111	None	apollo_sv,ogsf
+BFO:0000112	None	mf,mfoem,mfomd
+BFO:0000113	None	cvdo,htn,ogsf
+BFO:0000117	None	cvdo,dideo,mf,mfoem,mfomd,mondo,mop,mpio
+BFO:0000118	None	apollo_sv,chmo
+BFO:0000119	None	mop
+BFO:0000127	None	ogsf
+BFO:0000132	None	cvdo,mfoem,mfomd,mop
+BFO:0000133	None	mop,ogg
+BFO:0000137	None	apollo_sv,chmo,geo
+BFO:0000139	None	apollo_sv
+BFO:0000151	None	cvdo,ogg,ogsf,ovae
+BFO:0000153	None	cvdo,ogg,ogsf,ovae
+BFO:0000159	None	ogsf
+BFO:0000161	None	ogsf
+BFO:0000162	None	cido,iceo,ogg,ohpi,rxno
+BFO:0000165	None	ogsf
+BFO:0000167	None	apollo_sv,cvdo,mf,mfoem,mfomd,mondo,ogsf,ontoneo
+BFO:0000169	None	cvdo,ogg,ogsf,ovae
+BFO:0000172	None	ogsf
+BFO:0000174	None	chmo
+BFO:0000175	None	chmo
+BFO:0000176	None	mf,mfoem,mfomd
+BFO:0000177	None	apollo_sv
+BFO:0000178	None	chmo
+BFO:0000184	None	cvdo,ogg
+BFO:0000186	None	ogsf
+--BSPO--
+---VALID:BSPO|41---
+---OBSOLETE:BSPO|0---
+---MISSING:BSPO|0---
+--CDAO--
+---VALID:CDAO|18---
+---OBSOLETE:CDAO|1---
+CDAO:0000194	obsolete part_of	miapa
+---MISSING:CDAO|0---
+--CEPH--
+Unable to get sqlite:obo:ceph via oaklib
+--CHMO--
+---VALID:CHMO|4---
+---OBSOLETE:CHMO|0---
+---MISSING:CHMO|0---
+--CL--
+---VALID:CL|3---
+---OBSOLETE:CL|0---
+---MISSING:CL|0---
+--CLO--
+---VALID:CLO|6---
+---OBSOLETE:CLO|0---
+---MISSING:CLO|0---
+--DUO--
+---VALID:DUO|1---
+---OBSOLETE:DUO|0---
+---MISSING:DUO|0---
+--ECO--
+---VALID:ECO|1---
+---OBSOLETE:ECO|0---
+---MISSING:ECO|0---
+--ENVO--
+---VALID:ENVO|6---
+---OBSOLETE:ENVO|0---
+---MISSING:ENVO|0---
+--FBBI--
+---VALID:FBBI|1---
+---OBSOLETE:FBBI|0---
+---MISSING:FBBI|0---
+--FBDV--
+---VALID:FBDV|1---
+---OBSOLETE:FBDV|0---
+---MISSING:FBDV|0---
+--FMA--
+---VALID:FMA|0---
+---OBSOLETE:FMA|0---
+---MISSING:FMA|7---
+FMA:85848	None	ohd
+FMA:85857	None	ohd
+FMA:85868	None	ohd
+FMA:85879	None	ohd
+FMA:85925	None	ohd
+FMA:85995	None	ohd
+FMA:85996	None	ohd
+--FOODON--
+---VALID:FOODON|3---
+---OBSOLETE:FOODON|0---
+---MISSING:FOODON|0---
+--GENEPIO--
+---VALID:GENEPIO|1---
+---OBSOLETE:GENEPIO|0---
+---MISSING:GENEPIO|0---
+--GENO--
+---VALID:GENO|20---
+---OBSOLETE:GENO|0---
+---MISSING:GENO|0---
+--GEO--
+---VALID:GEO|1---
+---OBSOLETE:GEO|0---
+---MISSING:GEO|0---
+--IAO--
+---VALID:IAO|10---
+---OBSOLETE:IAO|0---
+---MISSING:IAO|1---
+IAO:0020012	None	obib,ontoneo
+--IDO--
+---VALID:IDO|1---
+---OBSOLETE:IDO|0---
+---MISSING:IDO|1---
+IDO:0100541	None	iceo
+--MFMO--
+---VALID:MFMO|6---
+---OBSOLETE:MFMO|0---
+---MISSING:MFMO|0---
+--MFOEM--
+---VALID:MFOEM|1---
+---OBSOLETE:MFOEM|0---
+---MISSING:MFOEM|0---
+--MICRO--
+Got an sqlite3.OperationalError trying to look up obsolete insqlite:obo:micro via oaklib:adapter.obsoletes()/f(sqlite3.OperationalError) no such table: deprecated_node
+[SQL: SELECT deprecated_node.id AS deprecated_node_id 
+FROM deprecated_node]
+(Background on this error at: https://sqlalche.me/e/14/e3q8)
+--MONDO--
+---VALID:MONDO|2---
+---OBSOLETE:MONDO|0---
+---MISSING:MONDO|0---
+--MOP--
+---VALID:MOP|1---
+---OBSOLETE:MOP|0---
+---MISSING:MOP|0---
+--MRO--
+---VALID:MRO|3---
+---OBSOLETE:MRO|0---
+---MISSING:MRO|0---
+--NCIT--
+---VALID:NCIT|95---
+---OBSOLETE:NCIT|0---
+---MISSING:NCIT|0---
+--NCRO--
+---VALID:NCRO|8---
+---OBSOLETE:NCRO|0---
+---MISSING:NCRO|0---
+--OAE--
+---VALID:OAE|6---
+---OBSOLETE:OAE|0---
+---MISSING:OAE|0---
+--OBCS--
+---VALID:OBCS|3---
+---OBSOLETE:OBCS|0---
+---MISSING:OBCS|0---
+--OBI--
+---VALID:OBI|17---
+---OBSOLETE:OBI|4---
+OBI:0000300	obsolete_is_realized_by	ero
+OBI:0000306	obsolete_has_function	ero
+OBI:0000308	obsolete_realizes	ero
+OBI:0000316	obsolete_has_role	ero
+---MISSING:OBI|0---
+--OBIB--
+---VALID:OBIB|2---
+---OBSOLETE:OBIB|0---
+---MISSING:OBIB|0---
+--OGG--
+---VALID:OGG|2---
+---OBSOLETE:OGG|0---
+---MISSING:OGG|0---
+--OGSF--
+---VALID:OGSF|3---
+---OBSOLETE:OGSF|0---
+---MISSING:OGSF|0---
+--OHMI--
+---VALID:OHMI|11---
+---OBSOLETE:OHMI|0---
+---MISSING:OHMI|0---
+--OMIT--
+---VALID:OMIT|3---
+---OBSOLETE:OMIT|0---
+---MISSING:OMIT|0---
+--OMRSE--
+---VALID:OMRSE|2---
+---OBSOLETE:OMRSE|1---
+OMRSE:00000020	is-aggregate-of	obib,omrse,opmi,pdro,slso
+---MISSING:OMRSE|0---
+--ONTONEO--
+---VALID:ONTONEO|1---
+---OBSOLETE:ONTONEO|0---
+---MISSING:ONTONEO|0---
+--PATO--
+---VALID:PATO|2---
+---OBSOLETE:PATO|0---
+---MISSING:PATO|0---
+--PLANA--
+---VALID:PLANA|0---
+---OBSOLETE:PLANA|1---
+PLANA:0007536	obsolete specific_to	planp
+---MISSING:PLANA|0---
+--PO--
+---VALID:PO|1---
+---OBSOLETE:PO|0---
+---MISSING:PO|0---
+--PPO--
+---VALID:PPO|1---
+---OBSOLETE:PPO|0---
+---MISSING:PPO|0---
+--RO--
+---VALID:RO|261---
+---OBSOLETE:RO|5---
+RO:0001018	obsolete contained in	aism,bto,colao,gaz,lepao,plana,planp
+RO:0001019	obsolete contains	colao,ecocore,envo,flopo,fovt,gaz,lepao,nbo,upheno
+RO:0002217	obsolete actively participates in	ogsf,ontoneo
+RO:0002218	obsolete has active participant	apollo_sv,opmi
+RO:0002609	obsolete related via dependence to	agro
+---MISSING:RO|1---
+RO:REGULATES	None	aro
+--RXNO--
+---VALID:RXNO|6---
+---OBSOLETE:RXNO|0---
+---MISSING:RXNO|0---
+--STATO--
+---VALID:STATO|13---
+---OBSOLETE:STATO|0---
+---MISSING:STATO|0---
+--TO--
+---VALID:TO|2---
+---OBSOLETE:TO|0---
+---MISSING:TO|0---
+--VO--
+---VALID:VO|23---
+---OBSOLETE:VO|0---
+---MISSING:VO|0---
